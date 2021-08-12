@@ -12,8 +12,8 @@ import sys
         NLTK
         re (built-in)
         collections (built-in)
-        argparse (built-in)
-
+        sys (built-in)
+        
     in order to install do:
         python -m pip install requests beautifulsoup4 nltk
 '''

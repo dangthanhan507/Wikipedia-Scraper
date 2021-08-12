@@ -7,5 +7,6 @@ In order to get all of the required software please run:
 
 
 To run the actual program please write this in terminal/powershell:
+    
     python wiki_scraper.py https://en.wikipedia.org/wiki/University_of_California,_Irvine
 

@@ -141,11 +141,11 @@ if __name__ == '__main__':
         print('Enter a URL')
         sys.exit()
 
-    file = open('out.txt', 'w')
-
     #use request library to parse url
     html_text = requests.get(test_url).text
     soup = BeautifulSoup(html_text, 'html.parser')
+
+    file = open('out.txt', 'w')
 
     #store body tag for use in functions
     body = soup.find('div', {'class': 'mw-parser-output'})

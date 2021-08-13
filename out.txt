@@ -1,0 +1,1202 @@
+Organization of the Wikipedia Page
+Title: Minecraft
+-> 1 Gameplay
+--> 1.1 Game_modes
+---> 1.1.1 Survival_mode
+---> 1.1.2 Hardcore_mode
+---> 1.1.3 Creative_mode
+---> 1.1.4 Adventure_mode
+---> 1.1.5 Spectator_mode
+--> 1.2 Multiplayer
+---> 1.2.1 Minecraft_Realms
+--> 1.3 Customization
+-> 2 Development
+--> 2.1 Minecraft:_Pocket_Edition
+--> 2.2 Legacy_console_editions
+--> 2.3 Minecraft:_Education_Edition
+--> 2.4 Minecraft_China
+--> 2.5 Other_PC_versions
+---> 2.5.1 Raspberry_Pi
+--> 2.6 Music
+--> 2.7 Variants
+---> 2.7.1 Virtual_reality
+-> 3 Reception
+--> 3.1 Sales
+--> 3.2 Awards
+-> 4 Cultural_impact
+--> 4.1 Applications
+---> 4.1.1 Education
+--> 4.2 Clones
+--> 4.3 Minecon
+-> 5 Notes
+-> 6 References
+--> 6.1 Further_reading
+-> 7 External_links
+
+
+
+Contents of Wikipedia Page
+0 Minecraft:
+
+  Hyperlinks: (text, url) 
+    ('sandbox video game', '/wiki/Sandbox_video_game')
+    ('Swedish', '/wiki/Sweden')
+    ('Mojang Studios', '/wiki/Mojang_Studios')
+    ('Markus "Notch" Persson', '/wiki/Markus_Persson')
+    ('Java programming language', '/wiki/Java_programming_language')
+    ('Jens Bergensten', '/wiki/Jens_Bergensten')
+    ('best-selling video game of all time', '/wiki/Best-selling_video_game_of_all_time')
+    ('monthly active users', '/wiki/Monthly_active_users')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=Minecraft&action=edit')
+    ('procedurally-generated', '/wiki/Procedurally-generated')
+    ('3D', '/wiki/3D_computer_graphics')
+    ('craft', '/wiki/Crafting_(gaming)')
+    ('earthworks', '/wiki/Earthworks_(engineering)')
+    ('game mode', '/wiki/Game_mode')
+    ('mobs', '/wiki/Mob_(video_games)')
+    ('survival mode', '/wiki/Survival_mode')
+    ('modify the game', '/wiki/Minecraft_mods')
+    ('greatest video games of all time', '/wiki/Greatest_video_games_of_all_time')
+    ('MineCon', '/wiki/MineCon')
+    ('intellectual property', '/wiki/Intellectual_property')
+    ('Microsoft', '/wiki/Microsoft')
+    ('Minecraft: Story Mode', '/wiki/Minecraft:_Story_Mode')
+    ('Minecraft Dungeons', '/wiki/Minecraft_Dungeons')
+    ('Minecraft Earth', '/wiki/Minecraft_Earth')
+
+
+  Top 5 frequent words: 
+    game -> 8
+    minecraft -> 7
+    players -> 6
+    video -> 4
+    mode -> 4
+
+
+
+
+1 Gameplay:
+
+  Hyperlinks: (text, url) 
+    ('3D', '/wiki/3D_computer_graphics')
+    ('sandbox game', '/wiki/Sandbox_game')
+    ('[20]', '#cite_note-IGN_review-28')
+    ('achievement', '/wiki/Achievement_(video_gaming)')
+    ('[21]', '#cite_note-29')
+    ('trophies', '/wiki/PlayStation_Network#Trophies')
+    ('[22]', '#cite_note-30')
+    ('first-person perspective', '/wiki/First-person_(video_games)')
+    ('[23]', '#cite_note-31')
+    ('[24]', '#cite_note-32')
+    ('[25]', '#cite_note-Minecraft_In_Education-33')
+    ('logic gates', '/wiki/Logic_gate')
+    ('[26]', '#cite_note-RedstoneComputer-34')
+    ('procedurally generated', '/wiki/Procedural_generation')
+    ('map seed', '/wiki/Map_seed')
+    ('system clock', '/wiki/System_clock')
+    ('[27]', '#cite_note-NotchExplain1-35')
+    ('[28]', '#cite_note-NotchExplain2-36')
+    ('[29]', "#cite_note-Beginner's_guide-37")
+    ('[i]', '#cite_note-38')
+    ('[27]', '#cite_note-NotchExplain1-35')
+    ('biomes', '/wiki/Biome')
+    ('[30]', '#cite_note-39')
+    ('[31]', '#cite_note-40')
+    ('terrain', '/wiki/Terrain')
+    ('[29]', "#cite_note-Beginner's_guide-37")
+    ('time system', '/wiki/Turns,_rounds_and_time-keeping_systems_in_games')
+    ('damage', '/wiki/Damage')
+    ('[32]', '#cite_note-Controls_and_Settings-41')
+    ('cheats', '/wiki/Cheating_in_video_games')
+    ('skin', '/wiki/Skin_(computer)')
+    ('[33]', '#cite_note-43')
+    ('[34]', '#cite_note-44')
+    ('non-player characters', '/wiki/Non-player_character')
+    ('mobs', '/wiki/Mob_(video_gaming)')
+    ('[35]', '#cite_note-Update_May_2012-45')
+    ('spawn', '/wiki/Spawning_(video_gaming)')
+    ('spiders', '/wiki/Spider')
+    ('skeletons', '/wiki/Skeleton_(undead)')
+    ('zombies', '/wiki/Zombie_(fictional)')
+    ('[29]', "#cite_note-Beginner's_guide-37")
+    ('[36]', '#cite_note-46')
+    ('creeper', '/wiki/Creeper_(Minecraft)')
+    ('teleport', '/wiki/Teleportation')
+    ('[37]', '#cite_note-Eurogamer-47')
+    ('[38]', '#cite_note-48')
+    ('alternative dimensions', '/wiki/Parallel_universes_in_fiction')
+    ('[37]', '#cite_note-Eurogamer-47')
+    ('hell', '/wiki/Hell')
+    ('[39]', '#cite_note-49')
+    ('boss', '/wiki/Boss_(video_games)')
+    ('[40]', '#cite_note-50')
+    ('dragon', '/wiki/Dragon')
+    ('[41]', '#cite_note-51')
+    ('Julian Gough', '/wiki/Julian_Gough')
+    ('[42]', '#cite_note-Juilan_Gough-52')
+    ('[43]', '#cite_note-53')
+
+
+  Top 5 frequent words: 
+    players -> 12
+    game -> 11
+    world -> 9
+    mobs -> 6
+    called -> 4
+
+
+
+
+1.1 Game_modes:
+
+  No Hyperlinks
+
+
+
+
+1.1.1 Survival_mode:
+
+  Hyperlinks: (text, url) 
+    ('[29]', "#cite_note-Beginner's_guide-37")
+    ('[29]', "#cite_note-Beginner's_guide-37")
+    ('health bar', '/wiki/Health_(gaming)')
+    ('[44]', '#cite_note-:7-54')
+    ('[44]', '#cite_note-:7-54')
+    ('[45]', '#cite_note-:8-55')
+    ('[45]', '#cite_note-:8-55')
+    ('[46]', '#cite_note-56')
+    ('[47]', '#cite_note-About.com-57')
+    ('[48]', '#cite_note-58')
+    ('NPC', '/wiki/Non-player_character')
+    ('emeralds', '/wiki/Emeralds')
+    ('[49]', '#cite_note-Trading_update-59')
+    ('[35]', '#cite_note-Update_May_2012-45')
+    ('[50]', '#cite_note-60')
+    ('[51]', '#cite_note-61')
+    ('[52]', '#cite_note-62')
+    ('[53]', '#cite_note-63')
+    ('experience points', '/wiki/Experience_point')
+    ('mobs', '/wiki/Mob_(video_gaming)')
+    ('breeding animals', '/wiki/Animal_breeding')
+    ('enchanting', '/wiki/Incantation')
+    ('[32]', '#cite_note-Controls_and_Settings-41')
+    ('[32]', '#cite_note-Controls_and_Settings-41')
+
+
+  Top 5 frequent words: 
+    players -> 13
+    items -> 7
+    bar -> 4
+    craft -> 3
+    certain -> 3
+
+
+
+
+1.1.2 Hardcore_mode:
+
+  Hyperlinks: (text, url) 
+    ('permadeath', '/wiki/Permadeath')
+    ('[54]', '#cite_note-64')
+    ('[55]', '#cite_note-65')
+    ('[56]', '#cite_note-66')
+
+
+  Top 5 frequent words: 
+    mode -> 4
+    hardcore -> 2
+    world -> 2
+    survival -> 1
+    variant -> 1
+
+
+
+
+1.1.3 Creative_mode:
+
+  Hyperlinks: (text, url) 
+    ('[57]', '#cite_note-Creative_Mode-67')
+    ('[58]', '#cite_note-Creative_Mode_2-68')
+    ('[59]', '#cite_note-69')
+    ('[57]', '#cite_note-Creative_Mode-67')
+
+
+  Top 5 frequent words: 
+    players -> 3
+    game -> 3
+    mode -> 2
+    creative -> 1
+    access -> 1
+
+
+
+
+1.1.4 Adventure_mode:
+
+  Hyperlinks: (text, url) 
+    ('[60]', '#cite_note-Custom_maps-70')
+    ('[61]', '#cite_note-RPS_–_1.3july-71')
+    ('[62]', '#cite_note-RPS_–_1.3aug-72')
+    ('[62]', '#cite_note-RPS_–_1.3aug-72')
+    ('[63]', '#cite_note-Gallegos-73')
+
+
+  Top 5 frequent words: 
+    players -> 3
+    map -> 3
+    mode -> 2
+    designed -> 2
+    experience -> 2
+
+
+
+
+1.1.5 Spectator_mode:
+
+  Hyperlinks: (text, url) 
+    ('[64]', '#cite_note-74')
+
+
+  Top 5 frequent words: 
+    players -> 3
+    spectator -> 1
+    mode -> 1
+    allows -> 1
+    fly -> 1
+
+
+
+
+1.2 Multiplayer:
+
+  Hyperlinks: (text, url) 
+    ('[65]', '#cite_note-Multiplayer_servers-75')
+    ('local area network', '/wiki/Local_area_network')
+    ('[66]', '#cite_note-76')
+    ('IP addresses', '/wiki/IP_address')
+    ('[65]', '#cite_note-Multiplayer_servers-75')
+    ('Hypixel', '/wiki/Hypixel')
+    ('[67]', '#cite_note-77')
+    ('[68]', '#cite_note-riotgames-78')
+    ('Player versus player', '/wiki/Player_versus_player')
+    ('[69]', '#cite_note-pcgamer_minecraft_future-79')
+
+
+  Top 5 frequent words: 
+    servers -> 6
+    players -> 5
+    multiplayer -> 4
+    server -> 4
+    minecraft -> 2
+
+
+
+
+1.2.1 Minecraft_Realms:
+
+  Hyperlinks: (text, url) 
+    ('[70]', '#cite_note-80')
+    ('[71]', '#cite_note-pcgamesn-81')
+    ('[72]', '#cite_note-Minecraft_Realms-82')
+    ('[73]', '#cite_note-83')
+    ('[72]', '#cite_note-Minecraft_Realms-82')
+    ('Electronic Entertainment Expo 2016', '/wiki/Electronic_Entertainment_Expo_2016')
+    ('cross-platform play', '/wiki/Cross-platform_play')
+    ('Windows 10', '/wiki/Windows_10')
+    ('iOS', '/wiki/IOS')
+    ('Android', '/wiki/Android_(system)')
+    ('[74]', '#cite_note-84')
+    ('Xbox One', '/wiki/Xbox_One')
+    ('Nintendo Switch', '/wiki/Nintendo_Switch')
+    ('[75]', '#cite_note-85')
+    ('virtual reality', '/wiki/Virtual_reality')
+    ('[76]', '#cite_note-86')
+    ('[77]', '#cite_note-87')
+
+
+  Top 5 frequent words: 
+    realms -> 8
+    minecraft -> 7
+    server -> 7
+    support -> 6
+    players -> 5
+
+
+
+
+1.3 Customization:
+
+  Hyperlinks: (text, url) 
+    ('application program interfaces', '/wiki/Application_program_interface')
+    ('downloadable content', '/wiki/Downloadable_content')
+    ('texture packs', '/wiki/Texture_pack')
+    ('mods', '/wiki/Mod_(video_gaming)')
+    ('[78]', '#cite_note-88')
+    ('[79]', '#cite_note-89')
+    ('minimaps', '/wiki/Minimap')
+    ('citation needed', '/wiki/Wikipedia:Citation_needed')
+    ('reverse engineering', '/wiki/Reverse_engineering')
+    ('vanilla', '/wiki/Vanilla_software')
+    ('[80]', '#cite_note-90')
+    ('[60]', '#cite_note-Custom_maps-70')
+    ('[61]', '#cite_note-RPS_–_1.3july-71')
+    ('[63]', '#cite_note-Gallegos-73')
+    ('[81]', '#cite_note-91')
+    ('[82]', '#cite_note-92')
+    ('Xbox Games Store', '/wiki/Xbox_Games_Store')
+    ('[83]', '#cite_note-93')
+    ('[84]', '#cite_note-94')
+    ('Mass Effect', '/wiki/Mass_Effect')
+    ('[85]', '#cite_note-95')
+    ('[86]', '#cite_note-IGN_Xbox-96')
+    ('Super Mario', '/wiki/Super_Mario')
+    ('[87]', '#cite_note-97')
+    ('[88]', '#cite_note-98')
+    ('malware', '/wiki/Malware')
+    ('[89]', '#cite_note-pcgamermalware-99')
+    ('[90]', '#cite_note-varietymalware1-100')
+    ('Avast', '/wiki/Avast')
+    ('reformat', '/wiki/Disk_formatting#Reformatting')
+    ('[90]', '#cite_note-varietymalware1-100')
+    ('[89]', '#cite_note-pcgamermalware-99')
+    ('[89]', '#cite_note-pcgamermalware-99')
+    ('[91]', '#cite_note-101')
+    ('[92]', '#cite_note-102')
+    ('[93]', '#cite_note-103')
+    ('[94]', '#cite_note-104')
+    ('[95]', '#cite_note-105')
+
+
+  Top 5 frequent words: 
+    packs -> 8
+    edition -> 8
+    new -> 6
+    minecraft -> 5
+    game -> 5
+
+
+
+
+2 Development:
+
+  Hyperlinks: (text, url) 
+    ('Markus "Notch" Persson', '/wiki/Markus_Persson')
+    ('King', '/wiki/King_(company)')
+    ('browser games', '/wiki/Browser_game')
+    ('[96]', '#cite_note-wired_origins-106')
+    ('TIGSource', '/wiki/TIGSource')
+    ('[96]', '#cite_note-wired_origins-106')
+    ('Dwarf Fortress', '/wiki/Dwarf_Fortress')
+    ('RollerCoaster Tycoon', '/wiki/RollerCoaster_Tycoon')
+    ('[97]', '#cite_note-TechRadar:_History-107')
+    ('Grand Theft Auto: Chinatown Wars', '/wiki/Grand_Theft_Auto:_Chinatown_Wars')
+    ('[98]', '#cite_note-rubydung-108')
+    ('Dungeon Keeper', '/wiki/Dungeon_Keeper')
+    ('[98]', '#cite_note-rubydung-108')
+    ('[99]', '#cite_note-GSint-109')
+    ('[100]', '#cite_note-Story_of_Mojang-110')
+    ('[99]', '#cite_note-GSint-109')
+    ('[101]', '#cite_note-GAMASUTRA-111')
+    ('Infiniminer', '/wiki/Infiniminer')
+    ('[98]', '#cite_note-rubydung-108')
+    ('[98]', '#cite_note-rubydung-108')
+    ('RPG', '/wiki/Role-playing_game')
+    ('[102]', '#cite_note-Blockbuster-112')
+    ('[98]', '#cite_note-rubydung-108')
+    ('[103]', '#cite_note-113')
+    ('[104]', '#cite_note-114')
+    ('[105]', '#cite_note-115')
+    ('[96]', '#cite_note-wired_origins-106')
+    ('[106]', '#cite_note-116')
+    ('[107]', '#cite_note-117')
+    ('[99]', '#cite_note-GSint-109')
+    ('citation needed', '/wiki/Wikipedia:Citation_needed')
+    ('Alpha', '/wiki/Video_game_alpha_release')
+    ('[108]', '#cite_note-118')
+    ('[109]', '#cite_note-119')
+    ('[110]', '#cite_note-PCGAMERinterview-120')
+    ('[110]', '#cite_note-PCGAMERinterview-120')
+    ('[111]', '#cite_note-Cult_and_merchandise-121')
+    ('[112]', '#cite_note-LackOfUpdates-122')
+    ('[113]', '#cite_note-MCcompany-123')
+    ('[96]', '#cite_note-wired_origins-106')
+    ('[114]', '#cite_note-124')
+    ('[115]', '#cite_note-BetaDate-125')
+    ('[116]', '#cite_note-MCMannehMollstam-126')
+    ('[117]', '#cite_note-127')
+    ('Jens "Jeb" Bergensten', '/wiki/Jens_%22Jeb%22_Bergensten')
+    ('[118]', '#cite_note-bergleaddev-128')
+    ('[69]', '#cite_note-pcgamer_minecraft_future-79')
+    ('server modifications', '/wiki/Minecraft_mods')
+    ('[119]', '#cite_note-129')
+    ('[120]', '#cite_note-130')
+    ('open-source', '/wiki/Open-source_software')
+    ('GNU General Public License', '/wiki/GNU_General_Public_License')
+    ('Lesser General Public License', '/wiki/Lesser_General_Public_License')
+    ('[121]', '#cite_note-gon-craftbukkitdmca-131')
+    ('Microsoft', '/wiki/Microsoft')
+    ('intellectual property', '/wiki/Intellectual_property')
+    ('[122]', '#cite_note-:2-132')
+    ('[123]', '#cite_note-:3-133')
+    ('[124]', '#cite_note-:4-134')
+    ('end user license agreement', '/wiki/End_user_license_agreement')
+    ('[125]', '#cite_note-135')
+    ('[126]', '#cite_note-136')
+    ('[127]', '#cite_note-MicrosoftMinecraft4-137')
+    ('Activision Blizzard', '/wiki/Activision_Blizzard')
+    ('Electronic Arts', '/wiki/Electronic_Arts')
+    ('[127]', '#cite_note-MicrosoftMinecraft4-137')
+    ('Forbes', '/wiki/Forbes')
+    ('[128]', '#cite_note-MicrosoftMinecraft1-138')
+    ('[129]', '#cite_note-MicrosoftMinecraft2-139')
+    ('[130]', '#cite_note-MicrosoftMinecraft3-140')
+    ('[127]', '#cite_note-MicrosoftMinecraft4-137')
+    ('[131]', '#cite_note-notchMigr-141')
+    ('[132]', '#cite_note-142')
+    ('[133]', '#cite_note-143')
+    ('[134]', '#cite_note-144')
+    ('[135]', '#cite_note-:0-145')
+    ('[135]', '#cite_note-:0-145')
+    ('beta', '/wiki/Software_release_life_cycle#Beta')
+    ('physically based rendering', '/wiki/Physically_based_rendering')
+    ('ray tracing', '/wiki/Ray_tracing_(graphics)')
+    ('DLSS', '/wiki/Deep_Learning_Super_Sampling')
+    ('Nvidia', '/wiki/Nvidia')
+    ('RTX', '/wiki/Nvidia_RTX')
+    ('GPUs', '/wiki/Graphics_processing_unit')
+    ('[136]', '#cite_note-146')
+    ('[137]', '#cite_note-147')
+
+
+  Top 5 frequent words: 
+    persson -> 15
+    game -> 15
+    minecraft -> 13
+    released -> 11
+    mojang -> 8
+
+
+
+
+2.1 Minecraft:_Pocket_Edition:
+
+  Hyperlinks: (text, url) 
+    ('Xperia Play', '/wiki/Xperia_Play')
+    ('Android Market', '/wiki/Google_Play')
+    ('[138]', '#cite_note-MobileGamas-148')
+    ('[139]', '#cite_note-MobileKotaku-149')
+    ('iOS', '/wiki/IOS')
+    ('[140]', '#cite_note-150')
+    ('Windows Phones', '/wiki/Windows_Phone')
+    ('[141]', '#cite_note-151')
+    ('Twitter', '/wiki/Twitter')
+    ('Jens Bergensten', '/wiki/Jens_Bergensten')
+    ('[142]', '#cite_note-PE_C++-152')
+    ('Windows Phone 8.1', '/wiki/Windows_Phone_8.1')
+    ('[143]', '#cite_note-engadget-wpmc-153')
+    ('[144]', '#cite_note-ars-mcw10discontinued-154')
+    ('Android', '/wiki/Android_(operating_system)')
+    ('[145]', '#cite_note-:12-155')
+
+
+  Top 5 frequent words: 
+    edition -> 6
+    minecraft -> 5
+    pocket -> 5
+    released -> 5
+    windows -> 4
+
+
+
+
+2.2 Legacy_console_editions:
+
+  Hyperlinks: (text, url) 
+    ('Xbox 360', '/wiki/Xbox_360')
+    ('4J Studios', '/wiki/4J_Studios')
+    ('[146]', '#cite_note-xboxpress-156')
+    ('[147]', '#cite_note-xboxreleasedate-157')
+    ('[147]', '#cite_note-xboxreleasedate-157')
+    ('Xbox Live', '/wiki/Xbox_Live')
+    ('[148]', '#cite_note-158')
+    ('[149]', '#cite_note-GSpot_Xbox-159')
+    ('[149]', '#cite_note-GSpot_Xbox-159')
+    ('[146]', '#cite_note-xboxpress-156')
+    ('[150]', '#cite_note-160')
+    ('[151]', '#cite_note-161')
+    ('[152]', '#cite_note-Microsoft-162')
+    ('[152]', '#cite_note-Microsoft-162')
+    ('PlayStation 3', '/wiki/PlayStation_3')
+    ('PlayStation 4', '/wiki/PlayStation_4')
+    ('[11]', '#cite_note-PS4-18')
+    ('[153]', '#cite_note-ps4_launch-163')
+    ('[154]', '#cite_note-gamespot1-164')
+    ('PlayStation Vita', '/wiki/PlayStation_Vita')
+    ('[155]', '#cite_note-vita_launch-165')
+    ('[156]', '#cite_note-166')
+    ('Wii U', '/wiki/Wii_U')
+    ('[157]', '#cite_note-167')
+    ('[158]', '#cite_note-168')
+    ('[159]', '#cite_note-169')
+    ('Nintendo Switch', '/wiki/Nintendo_Switch')
+    ('Nintendo eShop', '/wiki/Nintendo_eShop')
+    ('[160]', '#cite_note-170')
+    ('Nintendo Direct', '/wiki/Nintendo_Direct')
+    ('New Nintendo 3DS', '/wiki/New_Nintendo_3DS')
+    ('3DS', '/wiki/Nintendo_3DS')
+    ('2DS', '/wiki/Nintendo_2DS')
+    ('[18]', '#cite_note-New3DS-25')
+    ('cross-platform play', '/wiki/Cross-platform_play')
+    ('[161]', '#cite_note-171')
+    ('[162]', '#cite_note-172')
+    ('cross-platform play', '/wiki/Cross-platform_play')
+    ('Xbox Live', '/wiki/Xbox_Live')
+    ('[163]', '#cite_note-ps4_bedrock-173')
+
+
+  Top 5 frequent words: 
+    version -> 12
+    xbox -> 10
+    game -> 8
+    versions -> 8
+    playstation -> 8
+
+
+
+
+2.3 Minecraft:_Education_Edition:
+
+  Hyperlinks: (text, url) 
+    ('Windows 10', '/wiki/Windows_10')
+    ('MacOS', '/wiki/MacOS')
+    ('iPadOS', '/wiki/IPadOS')
+    ('Chrome OS', '/wiki/Chrome_OS')
+    ('[164]', '#cite_note-174')
+    ('[165]', '#cite_note-:22-175')
+    ('[166]', '#cite_note-176')
+    ('[167]', '#cite_note-177')
+    ('[168]', '#cite_note-178')
+    ('[169]', '#cite_note-179')
+    ('[170]', '#cite_note-180')
+    ('JD.com', '/wiki/JD.com')
+    ('[171]', '#cite_note-181')
+    ('Google Play Store', '/wiki/Google_Play_Store')
+    ('[165]', '#cite_note-:22-175')
+
+
+  Top 5 frequent words: 
+    education -> 5
+    edition -> 5
+    game -> 3
+    released -> 3
+    store -> 3
+
+
+
+
+2.4 Minecraft_China:
+
+  Hyperlinks: (text, url) 
+    ('NetEase', '/wiki/NetEase')
+    ('[172]', '#cite_note-182')
+    ('[173]', '#cite_note-183')
+    ('[174]', '#cite_note-184')
+    ('[175]', '#cite_note-185')
+    ('[176]', '#cite_note-China-300m2-186')
+
+
+  Top 5 frequent words: 
+    edition -> 6
+    released -> 4
+    version -> 3
+    china -> 2
+    pc -> 2
+
+
+
+
+2.5 Other_PC_versions:
+
+  Hyperlinks: (text, url) 
+    ('Raspberry Pi', '/wiki/Raspberry_Pi')
+    ('Java 4K game programming contest', '/wiki/Java_4K_Game_Programming_Contest')
+    ('[177]', '#cite_note-m4k-187')
+    ('[178]', '#cite_note-188')
+    ('beta', '/wiki/Video_game_development#Beta')
+    ('Windows Store', '/wiki/Windows_Store')
+    ('[179]', '#cite_note-189')
+    ('Xbox Live', '/wiki/Xbox_Live')
+    ('Microsoft Surface', '/wiki/Microsoft_Surface')
+    ('virtual reality', '/wiki/Virtual_reality')
+    ('[180]', '#cite_note-190')
+
+
+  Top 5 frequent words: 
+    minecraft -> 7
+    windows -> 4
+    10 -> 3
+    4k -> 3
+    version -> 3
+
+
+
+
+2.5.1 Raspberry_Pi:
+
+  Hyperlinks: (text, url) 
+    ('Raspberry Pi', '/wiki/Raspberry_Pi')
+    ('Minecon', '/wiki/MineCon')
+    ('Python', '/wiki/Python_(programming_language)')
+    ('[181]', '#cite_note-191')
+    ('[182]', '#cite_note-192')
+    ('[183]', '#cite_note-193')
+    ('Raspberry Pi OS', '/wiki/Raspberry_Pi_OS')
+    ('official website', 'https://www.minecraft.net/en-us/edition/pi/')
+
+
+  Top 5 frequent words: 
+    game -> 5
+    pi -> 4
+    raspberry -> 3
+    edition -> 3
+    minecraft -> 2
+
+
+
+
+2.6 Music:
+
+  Hyperlinks: (text, url) 
+    ('C418', '/wiki/C418')
+    ('[184]', '#cite_note-credits-194')
+    ('background music', '/wiki/Background_music')
+    ('ambient music', '/wiki/Ambient_music')
+    ('[185]', '#cite_note-195')
+    ('soundtrack', '/wiki/Video_game_music')
+    ('Minecraft – Volume Alpha', '/wiki/Minecraft_%E2%80%93_Volume_Alpha')
+    ('[186]', '#cite_note-Bandcamp-196')
+    ('Kotaku', '/wiki/Kotaku')
+    ('[187]', '#cite_note-197')
+    ('Minecraft – Volume Beta', '/wiki/Minecraft_%E2%80%93_Volume_Beta')
+    ('[188]', '#cite_note-Bandcamp2-198')
+    ('[189]', '#cite_note-Guardian-199')
+    ('Ghostly International', '/wiki/Ghostly_International')
+    ('[190]', '#cite_note-200')
+    ('[191]', '#cite_note-201')
+    ('Gareth Coker', '/wiki/Gareth_Coker')
+    ('Lena Raine', '/wiki/Lena_Raine')
+    ('[192]', '#cite_note-202')
+    ('[193]', '#cite_note-203')
+    ('[194]', '#cite_note-116release-204')
+
+
+  Top 5 frequent words: 
+    music -> 5
+    minecraft -> 5
+    rosenfeld -> 3
+    volume -> 3
+    released -> 2
+
+
+
+
+2.7 Variants:
+
+  Hyperlinks: (text, url) 
+    ('JavaScript', '/wiki/JavaScript')
+    ('[195]', '#cite_note-205')
+    ('[196]', '#cite_note-206')
+    ('[197]', '#cite_note-207')
+    ('[198]', '#cite_note-208')
+    ('[199]', '#cite_note-209')
+    ('The Lego Group', '/wiki/The_Lego_Group')
+    ('Lego', '/wiki/Lego')
+    ('Napoleon Dynamite', '/wiki/Napoleon_Dynamite')
+    ('[200]', '#cite_note-210')
+
+
+  Top 5 frequent words: 
+    lego -> 8
+    mojang -> 5
+    game -> 5
+    minecraft -> 4
+    group -> 3
+
+
+
+
+2.7.1 Virtual_reality:
+
+  Hyperlinks: (text, url) 
+    ('Oculus Rift', '/wiki/Oculus_Rift')
+    ('Facebook', '/wiki/Facebook')
+    ('[201]', '#cite_note-211')
+    ('fork', '/wiki/Fork_(software_development)')
+    ('OpenVR', '/wiki/OpenVR')
+    ('HTC Vive', '/wiki/HTC_Vive')
+    ('[202]', '#cite_note-ars-minecriftgone-212')
+    ('[202]', '#cite_note-ars-minecriftgone-212')
+    ('trademark', '/wiki/Trademark')
+    ('[202]', '#cite_note-ars-minecriftgone-212')
+    ('Gear VR', '/wiki/Gear_VR')
+    ('[203]', '#cite_note-213')
+    ('Windows Mixed Reality', '/wiki/Windows_Mixed_Reality')
+    ('PlayStation VR', '/wiki/PlayStation_VR')
+    ('[204]', '#cite_note-PSVR-214')
+    ('[205]', '#cite_note-215')
+    ('[204]', '#cite_note-PSVR-214')
+
+
+  Top 5 frequent words: 
+    minecraft -> 12
+    vr -> 10
+    support -> 6
+    oculus -> 5
+    rift -> 5
+
+
+
+
+3 Reception:
+
+  Hyperlinks: (text, url) 
+    ('emergent gameplay', '/wiki/Emergent_gameplay')
+    ('[234]', '#cite_note-PCGamerUK-244')
+    ('[235]', '#cite_note-PCPowerPlay-245')
+    ('[236]', '#cite_note-Valve-246')
+    ('[221]', '#cite_note-GS_review-231')
+    ('IGN', '/wiki/IGN')
+    ('[20]', '#cite_note-IGN_review-28')
+    ('[221]', '#cite_note-GS_review-231')
+    ('[20]', '#cite_note-IGN_review-28')
+    ('PC Gamer', '/wiki/PC_Gamer')
+    ('[228]', '#cite_note-PCReview-238')
+    ('game mechanics', '/wiki/Game_mechanics')
+    ('[237]', '#cite_note-The_Minecraft_Generation-247')
+    ('[20]', '#cite_note-IGN_review-28')
+    ('[221]', '#cite_note-GS_review-231')
+    ('GameSpot', '/wiki/GameSpot')
+    ('[221]', '#cite_note-GS_review-231')
+    ('Daily Record', '/wiki/Daily_Record_(Scotland)')
+    ('[238]', '#cite_note-DRreview-248')
+    ('Jim Rossignol', '/wiki/Jim_Rossignol')
+    ('Rock, Paper, Shotgun', '/wiki/Rock,_Paper,_Shotgun')
+    ('Lego', '/wiki/Lego')
+    ('Stalker', '/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl')
+    ('[239]', '#cite_note-RPSreview-249')
+    ('webcomic', '/wiki/Webcomic')
+    ('[240]', '#cite_note-PennyArcade-250')
+    ('[86]', '#cite_note-IGN_Xbox-96')
+    ('[224]', '#cite_note-MC_Pocket-234')
+    ('[241]', '#cite_note-251')
+    ('[242]', '#cite_note-252')
+    ('[224]', '#cite_note-MC_Pocket-234')
+
+
+  Top 5 frequent words: 
+    game -> 6
+    games -> 5
+    received -> 4
+    critics -> 4
+    reviewers -> 4
+
+
+
+
+3.1 Sales:
+
+  Hyperlinks: (text, url) 
+    ('[243]', '#cite_note-usercount12012011-253')
+    ('[244]', '#cite_note-usercountblog-254')
+    ('publisher', '/wiki/Video_game_publisher')
+    ('word of mouth', '/wiki/Word_of_mouth')
+    ('[245]', '#cite_note-noads-255')
+    ('Penny Arcade', '/wiki/Penny_Arcade_(webcomic)')
+    ('[246]', '#cite_note-256')
+    ('[247]', '#cite_note-GSAprilsales-257')
+    ('[248]', '#cite_note-sales11092011-258')
+    ('best-selling PC game', '/wiki/List_of_best-selling_PC_video_games')
+    ('[249]', '#cite_note-259')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=Minecraft&action=edit')
+    ('[250]', '#cite_note-built_to_last-260')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=Minecraft&action=edit')
+    ('best-selling video game of all time', '/wiki/List_of_best-selling_video_games')
+    ('[250]', '#cite_note-built_to_last-260')
+    ('[251]', '#cite_note-261')
+    ('[252]', '#cite_note-262')
+    ('best-selling video game', '/wiki/Best-selling_video_game')
+    ('[253]', '#cite_note-China-300m-263')
+    ('[254]', '#cite_note-264')
+    ('[255]', '#cite_note-265')
+    ('Xbox Live Arcade', '/wiki/Xbox_Live_Arcade')
+    ('[256]', '#cite_note-GSpot_–_sales-266')
+    ('unique users', '/wiki/Unique_user')
+    ('[257]', '#cite_note-xboxlive-2012-267')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=Minecraft&action=edit')
+    ('[258]', '#cite_note-268')
+    ('[259]', '#cite_note-269')
+    ('[260]', '#cite_note-270')
+    ('[261]', '#cite_note-271')
+    ('[262]', '#cite_note-272')
+    ('[263]', '#cite_note-273')
+    ('[264]', '#cite_note-274')
+    ('[265]', '#cite_note-275')
+    ('[266]', '#cite_note-:5-276')
+
+
+  Top 5 frequent words: 
+    million -> 20
+    minecraft -> 15
+    game -> 12
+    sold -> 10
+    copies -> 8
+
+
+
+
+3.2 Awards:
+
+  Hyperlinks: (text, url) 
+    ('[267]', '#cite_note-PCGamer-277')
+    ('Good Game', '/wiki/Good_Game_(television_series)')
+    ('[268]', '#cite_note-GGaward-278')
+    ('Gamasutra', '/wiki/Gamasutra')
+    ('[269]', '#cite_note-GSaward-279')
+    ('[270]', '#cite_note-GSaward2-280')
+    ('[271]', '#cite_note-RPSgoty-281')
+    ('Indie DB', '/wiki/Indie_DB')
+    ('[272]', '#cite_note-IDBaward-282')
+    ('[273]', '#cite_note-PCGamerUK1-283')
+    ('Independent Games Festival', '/wiki/Independent_Games_Festival')
+    ('[274]', '#cite_note-IGFnoms-284')
+    ('[275]', '#cite_note-IGFwins-285')
+    ('Game Developers Choice Awards', '/wiki/Game_Developers_Choice_Awards')
+    ('[276]', '#cite_note-286')
+    ('[277]', '#cite_note-287')
+    ('GameCity', '/wiki/GameCity')
+    ('[278]', '#cite_note-288')
+    ('Smithsonian American Art Museum', '/wiki/Smithsonian_American_Art_Museum')
+    ('The Art of Video Games', '/wiki/The_Art_of_Video_Games')
+    ('[279]', '#cite_note-289')
+    ('[280]', '#cite_note-290')
+    ('Spike Video Game Awards', '/wiki/Spike_Video_Game_Awards')
+    ('[281]', '#cite_note-spike_–_independent-291')
+    ('[282]', '#cite_note-spike_–_pc-292')
+    ('British Academy Video Games Awards', '/wiki/British_Academy_Video_Games_Awards')
+    ('[283]', '#cite_note-bafta-293')
+    ('Golden Joystick Award', '/wiki/Golden_Joystick_Award')
+    ('[284]', '#cite_note-CVG_Golden_Joystick-294')
+    ('TIGA', '/wiki/The_Independent_Games_Developers_Association')
+    ('[285]', '#cite_note-295')
+    ('[286]', '#cite_note-296')
+    ('TIGA', '/wiki/The_Independent_Games_Developers_Association')
+    ('[287]', '#cite_note-297')
+    ('USgamer', '/wiki/Eurogamer#Subsidiaries')
+    ('[288]', '#cite_note-298')
+    ('Time', '/wiki/Time_(magazine)')
+    ('[289]', '#cite_note-299')
+    ("2013 Kids' Choice Awards", '/wiki/2013_Kids%27_Choice_Awards')
+    ('Temple Run', '/wiki/Temple_Run')
+    ('[290]', '#cite_note-300')
+    ("2014 Kids' Choice Awards", '/wiki/2014_Kids%27_Choice_Awards')
+    ('Just Dance 2014', '/wiki/Just_Dance_2014')
+    ('[291]', '#cite_note-301')
+    ("2015 Kids' Choice Awards", '/wiki/2015_Kids%27_Choice_Awards')
+    ('[292]', '#cite_note-302')
+    ("2018 Kids' Choice Awards", '/wiki/2018_Kids%27_Choice_Awards')
+    ('[293]', '#cite_note-303')
+    ('[294]', '#cite_note-304')
+    ('2019 Golden Joystick Awards', '/wiki/Golden_Joystick_Awards#2019')
+    ('[295]', '#cite_note-305')
+    ("2020 Kids' Choice Awards", '/wiki/2020_Kids%27_Choice_Awards')
+    ('[296]', '#cite_note-306')
+
+
+  Top 5 frequent words: 
+    game -> 28
+    best -> 12
+    award -> 11
+    minecraft -> 9
+    video -> 9
+
+
+
+
+4 Cultural_impact:
+
+  Hyperlinks: (text, url) 
+    ('The Guardian', '/wiki/The_Guardian')
+    ('[297]', '#cite_note-307')
+    ('Polygon', '/wiki/Polygon_(website)')
+    ('[298]', '#cite_note-308')
+    ('Forbes', '/wiki/Forbes')
+    ('[299]', '#cite_note-forbes-309')
+    ('World Video Game Hall of Fame', '/wiki/World_Video_Game_Hall_of_Fame')
+    ('[300]', '#cite_note-:6-310')
+    ('early access', '/wiki/Early_access')
+    ('[301]', '#cite_note-311')
+    ('[302]', '#cite_note-gamasutra-312')
+    ('YouTube', '/wiki/YouTube')
+    ('Reddit', '/wiki/Reddit')
+    ('[303]', '#cite_note-Social_media-313')
+    ('University of Pennsylvania', '/wiki/University_of_Pennsylvania')
+    ('Annenberg School of Communication', '/wiki/Annenberg_School_for_Communication_at_the_University_of_Pennsylvania')
+    ('[304]', '#cite_note-314')
+    ('[305]', '#cite_note-salon-315')
+    ('walkthroughs', '/wiki/Strategy_guide')
+    ('[306]', '#cite_note-Merchandise_sales-316')
+    ('Machinima', '/wiki/Machinima.com')
+    ('[305]', '#cite_note-salon-315')
+    ('The Yogscast', '/wiki/The_Yogscast')
+    ('MineCon 2011', '/wiki/Minecon#2011')
+    ('[305]', '#cite_note-salon-315')
+    ('[307]', '#cite_note-bbc_tycoons-317')
+    ('Jordan Maron', '/wiki/Jordan_Maron')
+    ('parodies', '/wiki/Parody')
+    ('Gangnam Style', '/wiki/Gangnam_Style')
+    ('Psy', '/wiki/Psy')
+    ('[308]', '#cite_note-Minecraft_Style-318')
+    ('[309]', '#cite_note-319')
+    ('urban legend', '/wiki/Urban_legend')
+    ('4chan', '/wiki/4chan')
+    ('[310]', '#cite_note-ign-320')
+    ('[311]', '#cite_note-321')
+    ('Torchlight II', '/wiki/Torchlight_II')
+    ('Borderlands 2', '/wiki/Borderlands_2')
+    ('Choplifter HD', '/wiki/Choplifter_HD')
+    ('Super Meat Boy', '/wiki/Super_Meat_Boy')
+    ('The Elder Scrolls V: Skyrim', '/wiki/The_Elder_Scrolls_V:_Skyrim')
+    ('The Binding of Isaac', '/wiki/The_Binding_of_Isaac_(video_game)')
+    ('The Stanley Parable', '/wiki/The_Stanley_Parable')
+    ('FTL: Faster Than Light', '/wiki/FTL:_Faster_Than_Light')
+    ('[312]', '#cite_note-322')
+    ('[313]', '#cite_note-323')
+    ('Super Smash Bros. Ultimate', '/wiki/Super_Smash_Bros._Ultimate')
+    ('[314]', '#cite_note-324')
+    ('deadmau5', '/wiki/Deadmau5')
+    ('[315]', '#cite_note-325')
+    ('Lady Gaga', '/wiki/Lady_Gaga')
+    ('G.U.Y.', '/wiki/G.U.Y.')
+    ('[316]', '#cite_note-326')
+    ('Informative Murder Porn', '/wiki/Informative_Murder_Porn')
+    ('seventeenth season', '/wiki/South_Park_(season_17)')
+    ('South Park', '/wiki/South_Park')
+    ('[317]', '#cite_note-327')
+    ('Luca$', '/wiki/Luca$')
+    ('25th season', '/wiki/The_Simpsons_(season_25)')
+    ('The Simpsons', '/wiki/The_Simpsons')
+    ('Starbomb', '/wiki/Starbomb')
+    ('[318]', '#cite_note-328')
+    ('[319]', '#cite_note-329')
+    ('[320]', '#cite_note-330')
+
+
+  Top 5 frequent words: 
+    minecraft -> 12
+    game -> 12
+    youtube -> 6
+    video -> 5
+    videos -> 5
+
+
+
+
+4.1 Applications:
+
+  Hyperlinks: (text, url) 
+    ('computer-aided design', '/wiki/Computer-aided_design')
+    ('education', '/wiki/Education')
+    ('[305]', '#cite_note-salon-315')
+    ('Human Dynamics', '/wiki/Human_Dynamics')
+    ('MIT Media Lab', '/wiki/MIT_Media_Lab')
+    ('CAD program', '/wiki/CAD_program')
+    ('3D printers', '/wiki/3D_printing')
+    ('MakerBot', '/wiki/MakerBot')
+    ('RepRap', '/wiki/RepRap')
+    ('[321]', '#cite_note-331')
+    ('UN Habitat', '/wiki/UN_Habitat')
+    ('[322]', '#cite_note-332')
+    ('Sustainable Urban Development Network', '/wiki/The_Sustainable_Urban_Development_Network_(SUD-Net)')
+    ('Kibera', '/wiki/Kibera')
+    ('Nairobi', '/wiki/Nairobi')
+    ('[323]', '#cite_note-blockbyblock-333')
+    ('[324]', '#cite_note-:1-334')
+    ('[324]', '#cite_note-:1-334')
+    ('[324]', '#cite_note-:1-334')
+    ('[324]', '#cite_note-:1-334')
+    ('[324]', '#cite_note-:1-334')
+    ('[325]', '#cite_note-335')
+    ('[324]', '#cite_note-:1-334')
+    ('Danish Geodata Agency', '/wiki/Danish_Geodata_Agency')
+    ('geodata', '/wiki/Geographic_data_and_information')
+    ('[326]', '#cite_note-DenmarkInMinecraft-336')
+    ('one of the flattest countries', '/wiki/List_of_elevation_extremes_by_country')
+    ('[327]', '#cite_note-337')
+    ('[328]', '#cite_note-338')
+    ('non-governmental organization', '/wiki/Non-governmental_organization')
+    ('Reporters Without Borders', '/wiki/Reporters_Without_Borders')
+    ('the Uncensored Library', '/wiki/The_Uncensored_Library')
+    ('Jamal Khashoggi', '/wiki/Jamal_Khashoggi')
+    ('[329]', '#cite_note-339')
+    ('[330]', '#cite_note-340')
+    ('speedrunning', '/wiki/Speedrun')
+    ('[331]', '#cite_note-341')
+
+
+  Top 5 frequent words: 
+    minecraft -> 10
+    server -> 6
+    game -> 5
+    block -> 5
+    project -> 5
+
+
+
+
+4.1.1 Education:
+
+  Hyperlinks: (text, url) 
+    ('[332]', '#cite_note-Education-342')
+    ('[333]', '#cite_note-pcgamer_edu_2019-343')
+    ('[334]', '#cite_note-MCEdu-344')
+    ('[334]', '#cite_note-MCEdu-344')
+    ('cell', '/wiki/Cell_(biology)')
+    ('[333]', '#cite_note-pcgamer_edu_2019-343')
+    ('Great Ormond Street Hospital', '/wiki/Great_Ormond_Street_Hospital')
+    ('[335]', '#cite_note-345')
+    ('Computer Aided Design', '/wiki/Computer_Aided_Design')
+    ('[336]', '#cite_note-346')
+    ('[337]', '#cite_note-347')
+    ('[338]', '#cite_note-348')
+    ('hard drive', '/wiki/Hard_drive')
+    ('[339]', '#cite_note-349')
+    ('[340]', '#cite_note-350')
+    ('emulators', '/wiki/Emulator')
+    ('Atari 2600', '/wiki/Atari_2600')
+    ('SethBling', '/wiki/SethBling')
+    ('[341]', '#cite_note-351')
+    ('[342]', '#cite_note-352')
+    ('Game Boy Advance', '/wiki/Game_Boy_Advance')
+    ('[343]', '#cite_note-353')
+    ('[344]', '#cite_note-354')
+    ('British Museum', '/wiki/British_Museum')
+    ('[345]', '#cite_note-355')
+    ('Code.org', '/wiki/Code.org')
+    ('[346]', '#cite_note-356')
+
+
+  Top 5 frequent words: 
+    minecraft -> 10
+    students -> 5
+    within -> 5
+    virtual -> 5
+    educational -> 3
+
+
+
+
+4.2 Clones:
+
+  Hyperlinks: (text, url) 
+    ('clones', '/wiki/Video_game_clone')
+    ('Ace of Spades', '/wiki/Ace_of_Spades_(video_game)')
+    ('CastleMiner', '/wiki/CastleMiner')
+    ('FortressCraft', '/wiki/FortressCraft')
+    ('Terraria', '/wiki/Terraria')
+    ('[347]', '#cite_note-357')
+    ('The Blockheads', '/wiki/The_Blockheads_(game)')
+    ('[348]', '#cite_note-FramptonPostMort-358')
+    ('homebrew', '/wiki/Homebrew_(video_games)')
+    ('Nintendo DS', '/wiki/Nintendo_DS')
+    ('[349]', '#cite_note-359')
+    ('[350]', '#cite_note-NLcitesMinecraftWiiURumours-360')
+    ('[351]', '#cite_note-NLcitesUCraft-361')
+    ('Cube Life: Island Survival', '/wiki/Cube_Life:_Island_Survival')
+    ('Cypronia', '/wiki/Cypronia')
+    ('[352]', '#cite_note-NLcitesCLIS-362')
+    ('[353]', '#cite_note-NLcitesDiscovery-363')
+    ('[354]', '#cite_note-NLcitesBattleminer-364')
+    ('[355]', '#cite_note-NLcitesCubeCreator3D-365')
+    ('[356]', '#cite_note-NLcitesStoneShire-366')
+    ('[357]', '#cite_note-MCV-UK_interview-367')
+    ('[358]', '#cite_note-VergecitesMSMonWiiU-368')
+    ('[16]', '#cite_note-WiiU-23')
+    ('Minicraft', '/wiki/Minicraft')
+    ('Ludum Dare', '/wiki/Ludum_Dare')
+    ('[359]', '#cite_note-369')
+
+
+  Top 5 frequent words: 
+    minecraft -> 7
+    game -> 4
+    released -> 2
+    various -> 2
+    include -> 2
+
+
+
+
+4.3 Minecon:
+
+  Hyperlinks: (text, url) 
+    ('fan convention', '/wiki/Fan_convention')
+    ('Mandalay Bay', '/wiki/Mandalay_Bay')
+    ('Las Vegas', '/wiki/Las_Vegas')
+    ('[360]', '#cite_note-370')
+    ('[361]', '#cite_note-371')
+
+
+  Top 5 frequent words: 
+    minecraft -> 3
+    official -> 2
+    one -> 2
+    minecon -> 1
+    fan -> 1
+
+
+
+
+5 Notes:
+
+  No Hyperlinks
+
+
+
+
+6 References:
+
+  No Hyperlinks
+
+
+
+
+6.1 Further_reading:
+
+  No Hyperlinks
+
+
+  Top 5 frequent words: 
+    minecraft -> 3
+    isbn -> 3
+    2014 -> 2
+    press -> 2
+    gallagher -> 1
+
+
+
+
+7 External_links:
+
+  No Hyperlinks
+
+
+  Top 5 frequent words: 
+    official -> 1
+    website -> 1
+    minecraft -> 1
+    wikiminecraft -> 1
+    classic -> 1
+
+
+
+

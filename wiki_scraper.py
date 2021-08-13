@@ -48,11 +48,6 @@ def get_sections(soup: 'html.parser') -> [(str,str)]:
         headings.append( (i.get('href')[1:], i.find('span').text) ) 
     
     return headings
-
-def print_headings(headings: [(int,int)]) -> 'print': 
-    #given a list of headings, it prints it in an organized fashion
-    for heading, num in headings:
-        print('-'*len(num.split('.')) + f'> {num} {heading}')
     
 
 def parse_body(body: 'html tag at level containing all body content', headings: (str,str) ) -> ({str:str},{str:[str]}):
@@ -130,12 +125,23 @@ def top_n(freq_words: {str:int}, n: int) -> [(str, int)]:
     ls_freq = sorted(freq_words.items(), key=(lambda i: i[1]), reverse=True) #sort
     return ls_freq[:n]
 
+def print_and_write(string: str, filestream):
+    print(string)
+    filestream.write(string + '\n')
+
+def print_headings(headings: [(int,int)], filestream) -> 'print': 
+    #given a list of headings, it prints it in an organized fashion
+    for heading, num in headings:
+        print_and_write('-'*len(num.split('.')) + f'> {num} {heading}', filestream)
+
 if __name__ == '__main__':
     if len(sys.argv) == 2:
         test_url = sys.argv[1]
     else:
         print('Enter a URL')
         sys.exit()
+
+    file = open('out.txt', 'w')
 
     #use request library to parse url
     html_text = requests.get(test_url).text
@@ -146,42 +152,43 @@ if __name__ == '__main__':
     #filter the body tag for only the "p", "ul", and "h" that are contained inside.
     body = body.find_all(['p','ul','h','h2','h3','h4', 'h5', 'h6'],recursive=False)[1:]
 
-    print('Organization of the Wikipedia Page')
+    print_and_write('Organization of the Wikipedia Page', file)
     title = get_title(soup)
     headings = get_sections(soup)
 
-    print(f'Title: {title}')
-    print_headings(headings)
-    print('\n\n')
+    print_and_write(f'Title: {title}', file)
+    print_headings(headings, file)
+    print_and_write('\n\n', file)
 
     #include the title inside of headings
     headings.insert(0, (title,0) )
     texts_in_headings, hyperlinks_in_headings = parse_body(body, headings)
 
     #Iterating through headings to display hyperlinks and top n words
-    print('Contents of Wikipedia Page')
+    print_and_write('Contents of Wikipedia Page', file)
     for heading, num in headings:
-        print(f'{num} {heading}:\n')
+        print_and_write(f'{num} {heading}:\n', file)
 
         #hyperlink display
         hyperlinks = hyperlinks_in_headings[heading]
         if len(hyperlinks) != 0:
-            print('  Hyperlinks: (text, url) ')
+            print_and_write('  Hyperlinks: (text, url) ', file)
             for hyperlink in hyperlinks:
-                print(f'    {hyperlink}')
+                print_and_write(f'    {hyperlink}', file)
         else:
-            print('  No Hyperlinks')
-        print('\n')
+            print_and_write('  No Hyperlinks', file)
+        print_and_write('\n', file)
 
         
         #top n words display
         freq_dict = store_frequency_dict(texts_in_headings[heading])
         top_n_words = top_n(freq_dict, 5)
         if len(top_n_words) != 0:
-            print('  Top 5 frequent words: ')
+            print_and_write('  Top 5 frequent words: ', file)
             for word, freq in top_n_words:
-                print(f'    {word} -> {freq}')
-            print('\n')
+                print_and_write(f'    {word} -> {freq}', file)
+            print_and_write('\n', file)
 
-        print('\n')
+        print_and_write('\n', file)
+    file.close()
 

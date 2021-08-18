@@ -1,77 +1,93 @@
 Organization of the Wikipedia Page
-Title: University of California, Irvine
+Title: California Institute of Technology
 -> 1 History
---> 1.1 Early_years
---> 1.2 Development_and_recent_history
+--> 1.1 Throop_College
+--> 1.2 World_Wars
+--> 1.3 Project_Vista
+--> 1.4 Post-war_growth
+--> 1.5 21st_century
 -> 2 Campus
---> 2.1 Surroundings
---> 2.2 Architecture
---> 2.3 Libraries_and_study_centers
---> 2.4 Tunnels
--> 3 Governance
+-> 3 Organization_and_administration
 -> 4 Academics
---> 4.1 Academic_units
---> 4.2 Health_care
---> 4.3 Research_organizations
---> 4.4 Rankings
----> 4.4.1 Global
----> 4.4.2 National
----> 4.4.3 Learned_societies_affiliations
---> 4.5 Admissions
--> 5 Discoveries_and_innovation
---> 5.1 Machine_Learning_Repository
+--> 4.1 Rankings
+--> 4.2 Admissions
+--> 4.3 Tuition_and_financial_aid
+--> 4.4 Undergraduate_program
+--> 4.5 Graduate_program
+-> 5 Research
 -> 6 Student_life
---> 6.1 Fraternities_and_sororities
---> 6.2 Clubs_and_organizations
----> 6.2.1 Irvine_11_controversy
---> 6.3 Residential_accommodations
--> 7 Athletics
---> 7.1 Anteater_as_mascot
--> 8 People
--> 9 See_also
--> 10 Notes
+--> 6.1 House_system
+--> 6.2 Athletics
+--> 6.3 Performing_and_visual_arts
+--> 6.4 Student_life_traditions
+---> 6.4.1 Annual_events
+---> 6.4.2 Pranks
+----> 6.4.2.1 Rivalry_with_MIT
+---> 6.4.3 Honor_code
+-> 7 Notable_people
+--> 7.1 Students
+--> 7.2 Alumni
+--> 7.3 Faculty_and_staff
+---> 7.3.1 Presidents
+-> 8 Caltech_startups
+-> 9 In_media_and_popular_culture
+-> 10 See_also
 -> 11 References
 -> 12 External_links
 
 
 
 Contents of Wikipedia Page
-0 University of California, Irvine:
+0 California Institute of Technology:
 
   Hyperlinks: (text, url) 
-    ('UC Irvine Medical Center', '/wiki/UC_Irvine_Medical_Center')
-    ('teaching hospital', '/wiki/Teaching_hospital')
-    ('Orange', '/wiki/Orange,_California')
-    ('its affiliated health sciences system', '/wiki/UC_Irvine_Health_Sciences')
-    ('University of California, Irvine, Arboretum', '/wiki/University_of_California,_Irvine,_Arboretum')
-    ('University of California Natural Reserve System', '/wiki/University_of_California_Natural_Reserve_System')
-    ('United States', '/wiki/United_States')
-    ('[15]', '#cite_note-15')
-    ('[16]', '#cite_note-Obama-16')
-    ('Orange County', '/wiki/Orange_County,_California')
-    ('Irvine Company', '/wiki/Irvine_Company')
-    ('for one dollar', '/wiki/Nominal_consideration')
-    ('Lyndon B. Johnson', '/wiki/Lyndon_B._Johnson')
-    ('[17]', '#cite_note-17')
-    ('Barack Obama', '/wiki/Barack_Obama')
-    ('[16]', '#cite_note-Obama-16')
-    ('Seven', '/wiki/List_of_Nobel_laureates_by_university_affiliation_II')
-    ('Nobel Prize', '/wiki/Nobel_Prize')
-    ('Pulitzer Prize', '/wiki/Pulitzer_Prize')
-    ('[18]', '#cite_note-Notable_Alumni-18')
-    ('[19]', '#cite_note-Faculty_Awards_and_Honors-19')
-    ('UC Irvine Anteaters', '/wiki/UC_Irvine_Anteaters')
-    ('NCAA Division I', '/wiki/Division_I_(NCAA)')
-    ('Big West Conference', '/wiki/Big_West_Conference')
-    ('[a]', '#cite_note-20')
+    ('[7]', '#cite_note-caltech-7')
+    ('private', '/wiki/Private_university')
+    ('research university', '/wiki/Research_university')
+    ('Pasadena, California', '/wiki/Pasadena,_California')
+    ('institutes of technology in the United States', '/wiki/Institute_of_Technology_(United_States)')
+    ('Amos G. Throop', '/wiki/Amos_G._Throop')
+    ('George Ellery Hale', '/wiki/George_Ellery_Hale')
+    ('Arthur Amos Noyes', '/wiki/Arthur_Amos_Noyes')
+    ('Robert Andrews Millikan', '/wiki/Robert_Andrews_Millikan')
+    ('Association of American Universities', '/wiki/Association_of_American_Universities')
+    ('NASA', '/wiki/NASA')
+    ('Jet Propulsion Laboratory', '/wiki/Jet_Propulsion_Laboratory')
+    ('Theodore von Kármán', '/wiki/Theodore_von_K%C3%A1rm%C3%A1n')
+    ('[8]', '#cite_note-aau-8')
+    ('[9]', '#cite_note-9')
+    ('[10]', '#cite_note-overview-10')
+    ('downtown Los Angeles', '/wiki/Downtown_Los_Angeles')
+    ('House System at Caltech', '/wiki/House_System_at_Caltech')
+    ('[11]', '#cite_note-geek_pranks-11')
+    ('take-home examinations', '/wiki/Final_examination#Take-home_finals')
+    ('Caltech Beavers', '/wiki/Caltech_Beavers')
+    ('NCAA', '/wiki/National_Collegiate_Athletic_Association')
+    ('Division III', '/wiki/NCAA_Division_III')
+    ('Southern California Intercollegiate Athletic Conference', '/wiki/Southern_California_Intercollegiate_Athletic_Conference')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=California_Institute_of_Technology&action=edit')
+    ('76 Nobel laureates who have been affiliated with Caltech', '/wiki/List_of_Nobel_laureates_affiliated_with_California_Institute_of_Technology')
+    ('Linus Pauling', '/wiki/Linus_Pauling')
+    ('4 Fields Medalists', '/wiki/List_of_Fields_Medal_winners_by_university_affiliation')
+    ('6 Turing Award winners', '/wiki/List_of_Turing_Award_laureates_by_university_affiliation')
+    ('United States National Academies', '/wiki/United_States_National_Academies')
+    ('Chief Scientists of the U.S. Air Force', '/wiki/Chief_Scientist_of_the_U.S._Air_Force')
+    ('National Medal of Science', '/wiki/National_Medal_of_Science')
+    ('Technology', '/wiki/National_Medal_of_Technology')
+    ('[4]', '#cite_note-at_a_glance-4')
+    ('Howard Hughes Medical Institute', '/wiki/Howard_Hughes_Medical_Institute')
+    ('[4]', '#cite_note-at_a_glance-4')
+    ('Pomona College', '/wiki/Pomona_College')
+    ('PhD', '/wiki/Doctor_of_Philosophy')
+    ('[12]', '#cite_note-12')
 
 
   Top 5 frequent words: 
-    university -> 5
-    uc -> 5
-    irvine -> 5
-    system -> 4
-    anteaters -> 4
+    caltech -> 8
+    faculty -> 5
+    members -> 4
+    california -> 3
+    science -> 3
 
 
 
@@ -83,75 +99,188 @@ Contents of Wikipedia Page
 
 
 
-1.1 Early_years:
+1.1 Throop_College:
 
   Hyperlinks: (text, url) 
-    ('San Diego', '/wiki/University_of_California,_San_Diego')
-    ('Santa Cruz', '/wiki/University_of_California,_Santa_Cruz')
-    ('California Master Plan for Higher Education', '/wiki/California_Master_Plan_for_Higher_Education')
-    ('[20]', '#cite_note-21')
+    ('vocational school', '/wiki/Vocational_school')
+    ('Old Pasadena', '/wiki/Old_Pasadena')
+    ('Fair Oaks Avenue', '/wiki/Fair_Oaks_Avenue_(Pasadena,_California)')
+    ('Amos G. Throop', '/wiki/Amos_G._Throop')
+    ('[13]', '#cite_note-13')
+    ('[14]', '#cite_note-14')
+    ('[10]', '#cite_note-overview-10')
+    ('[15]', '#cite_note-incorporation-15')
+    ('Polytechnic School', '/wiki/Polytechnic_School')
+    ('George Ellery Hale', '/wiki/George_Ellery_Hale')
+    ('astronomer', '/wiki/Astronomer')
+    ('University of Chicago', '/wiki/University_of_Chicago')
+    ('Mount Wilson Observatory', '/wiki/Mount_Wilson_Observatory')
+    ('James A. B. Scherer', '/wiki/James_Augustin_Brown_Scherer')
+    ('[16]', '#cite_note-gates_lab-16')
+
+
+  Top 5 frequent words: 
+    school -> 4
+    throop -> 3
+    vocational -> 2
+    founded -> 2
+    pasadena -> 2
+
+
+
+
+1.2 World_Wars:
+
+  Hyperlinks: (text, url) 
+    ('Theodore Roosevelt', '/wiki/Theodore_Roosevelt')
+    ('California Legislature', '/wiki/California_Legislature')
+    ('Stanford University', '/wiki/Stanford_University')
     ('University of California', '/wiki/University_of_California')
-    ('post-war baby boom', '/wiki/Post-World_War_II_baby_boom')
-    ('Orange County', '/wiki/Orange_County,_California')
-    ('UCLA', '/wiki/UCLA')
-    ('UC Riverside', '/wiki/UC_Riverside')
-    ('[21]', '#cite_note-site_selection-22')
-    ('Lyndon B. Johnson', '/wiki/Lyndon_B._Johnson')
-    ('[22]', '#cite_note-23')
-    ('[23]', '#cite_note-24')
-    ('[24]', '#cite_note-lib-25')
-    ('[25]', '#cite_note-26')
+    ('[18]', '#cite_note-The_Dream_Endures-18')
+    ('physical chemist', '/wiki/Physical_chemistry')
+    ('Arthur Amos Noyes', '/wiki/Arthur_Amos_Noyes')
+    ('MIT', '/wiki/Massachusetts_Institute_of_Technology')
+    ('World War I', '/wiki/World_War_I')
+    ('National Research Council', '/wiki/United_States_National_Research_Council')
+    ('The New York Times', '/wiki/The_New_York_Times')
+    ('physicist', '/wiki/Physics')
+    ('Robert Andrews Millikan', '/wiki/Robert_Andrews_Millikan')
+    ('University of Chicago', '/wiki/University_of_Chicago')
+    ('[20]', '#cite_note-bridge_lab-20')
+    ('[19]', '#cite_note-NRC-19')
+    ('Southern California', '/wiki/Southern_California')
+    ('[17]', '#cite_note-Caltech_Catalog-17')
+    ('Nobel Prize in Physics', '/wiki/Nobel_Prize_in_Physics')
+    ('William Bennett Munro', '/wiki/William_Bennett_Munro')
+    ('Harvard University', '/wiki/Harvard_University')
+    ('humanities', '/wiki/Humanities')
+    ('social sciences', '/wiki/Social_science')
+    ('biology', '/wiki/Biology')
+    ('Thomas Hunt Morgan', '/wiki/Thomas_Hunt_Morgan')
+    ('chromosome', '/wiki/Chromosome')
+    ('Kerckhoff Marine Laboratory', '/wiki/Kerckhoff_Marine_Laboratory')
+    ('George MacGinitie', '/wiki/George_MacGinitie')
+    ('aeronautics', '/wiki/Aeronautics')
+    ('Theodore von Kármán', '/wiki/Theodore_von_K%C3%A1rm%C3%A1n')
+    ('rocket science', '/wiki/Rocket')
+    ('Palomar Observatory', '/wiki/Palomar_Observatory')
+    ('Paul Dirac', '/wiki/Paul_Dirac')
+    ('Erwin Schrödinger', '/wiki/Erwin_Schr%C3%B6dinger')
+    ('Werner Heisenberg', '/wiki/Werner_Heisenberg')
+    ('Hendrik Lorentz', '/wiki/Hendrik_Lorentz')
+    ('Niels Bohr', '/wiki/Niels_Bohr')
+    ('[21]', '#cite_note-21')
+    ('Albert Einstein', '/wiki/Albert_Einstein')
+    ('Theory of General Relativity', '/wiki/Theory_of_General_Relativity')
+    ('[22]', '#cite_note-22')
+    ('V-12 Navy College Training Program', '/wiki/V-12_Navy_College_Training_Program')
+    ('[23]', '#cite_note-caltech-v-12-23')
+    ('United States Navy', '/wiki/United_States_Navy')
+    ('aeronautical engineering', '/wiki/Aeronautical_engineering')
+    ('National Defense Research Committee', '/wiki/National_Defense_Research_Committee')
+    ('[24]', '#cite_note-24')
 
 
   Top 5 frequent words: 
-    california -> 4
-    university -> 3
-    irvine -> 3
-    one -> 3
-    new -> 3
+    throop -> 7
+    science -> 7
+    national -> 7
+    research -> 7
+    caltech -> 7
 
 
 
 
-1.2 Development_and_recent_history:
+1.3 Project_Vista:
 
   Hyperlinks: (text, url) 
-    ('Irvine', '/wiki/Irvine,_CA')
-    ('James Irvine', '/wiki/James_Irvine_(landowner)')
-    ('The Irvine Company', '/wiki/The_Irvine_Company')
-    ('[21]', '#cite_note-site_selection-22')
-    ('Daniel G. Aldrich', '/wiki/Daniel_G._Aldrich')
-    ('[26]', '#cite_note-27')
-    ('William Pereira', '/wiki/William_Pereira')
-    ('[21]', '#cite_note-site_selection-22')
-    ('Tustin', '/wiki/Tustin,_California')
-    ('Newport Beach', '/wiki/Newport_Beach,_California')
-    ('The Irvine Company', '/wiki/The_Irvine_Company')
-    ('[21]', '#cite_note-site_selection-22')
-    ('Orange County', '/wiki/Orange_County,_California')
-    ('[27]', '#cite_note-28')
-    ('[28]', '#cite_note-29')
-    ('[29]', '#cite_note-30')
-    ('school of osteopathy', '/wiki/Osteopathic_medicine_in_the_United_States')
-    ('Southwest', '/wiki/Southwestern_United_States')
-    ('[30]', '#cite_note-31')
-    ('[31]', '#cite_note-som.uci.edu-32')
-    ('UC Irvine Medical Center', '/wiki/UC_Irvine_Medical_Center')
-    ('[31]', '#cite_note-som.uci.edu-32')
-    ('Francisco J. Ayala', '/wiki/Francisco_J._Ayala')
-    ('[32]', '#cite_note-33')
-    ('[33]', '#cite_note-34')
-    ('[34]', '#cite_note-35')
-    ('[35]', '#cite_note-36')
-    ('[36]', '#cite_note-37')
+    ('Project Vista', '/wiki/Project_Vista')
+    ('[25]', '#cite_note-25')
+    ('Lee A. DuBridge', '/wiki/Lee_Alvin_DuBridge')
+    ('William A. Fowler', '/wiki/William_Alfred_Fowler')
+    ('[26]', '#cite_note-26')
+    ('[27]', '#cite_note-27')
 
 
   Top 5 frequent words: 
-    irvine -> 13
-    university -> 7
-    uc -> 6
-    city -> 4
-    ha -> 4
+    study -> 5
+    project -> 5
+    caltech -> 3
+    host -> 2
+    federal -> 2
+
+
+
+
+1.4 Post-war_growth:
+
+  Hyperlinks: (text, url) 
+    ('Murray Gell-Mann', '/wiki/Murray_Gell-Mann')
+    ('Richard Feynman', '/wiki/Richard_Feynman')
+    ('Standard Model', '/wiki/Standard_Model')
+    ('Lee A. DuBridge', '/wiki/Lee_A._DuBridge')
+    ('federal funding', '/wiki/Federal_funding')
+    ('chemical biology', '/wiki/Chemical_biology')
+    ('planetary science', '/wiki/Planetary_science')
+    ('nuclear astrophysics', '/wiki/Nuclear_astrophysics')
+    ('geochemistry', '/wiki/Geochemistry')
+    ('200-inch telescope', '/wiki/Hale_Telescope')
+    ('[28]', '#cite_note-28')
+    ('Harold Brown', '/wiki/Harold_Brown_(Secretary_of_Defense)')
+    ('[29]', '#cite_note-29')
+    ('[4]', '#cite_note-at_a_glance-4')
+    ('[30]', '#cite_note-30')
+    ('NBC', '/wiki/NBC')
+    ('Star Trek', '/wiki/Star_Trek:_The_Original_Series')
+    ('Dabney House', '/wiki/Dabney_House')
+    ('Impeach Nixon', '/wiki/Watergate_scandal')
+    ('National Oil Company', '/wiki/National_Oil_Company')
+    ('[31]', '#cite_note-31')
+
+
+  Top 5 frequent words: 
+    dabney -> 4
+    caltech -> 3
+    house -> 3
+    feynman -> 2
+    physics -> 2
+
+
+
+
+1.5 21st_century:
+
+  Hyperlinks: (text, url) 
+    ('Einstein Papers Project', '/wiki/Einstein_Papers_Project')
+    ('[32]', '#cite_note-32')
+    ('[4]', '#cite_note-at_a_glance-4')
+    ('[33]', '#cite_note-33')
+    ('Lawrence Berkeley National Laboratory', '/wiki/Lawrence_Berkeley_National_Laboratory')
+    ('Nathan Lewis', '/wiki/Nathan_Lewis_(chemist)')
+    ('DOE', '/wiki/United_States_Department_of_Energy')
+    ('Energy Innovation Hub', '/wiki/United_States_Department_of_Energy#Energy_Innovation_Hubs')
+    ('Joint Center for Artificial Photosynthesis', '/wiki/Joint_Center_for_Artificial_Photosynthesis')
+    ('[34]', '#cite_note-34')
+    ('massive open online courses', '/wiki/Massive_open_online_course')
+    ('Coursera', '/wiki/Coursera')
+    ('edX', '/wiki/EdX')
+    ('[35]', '#cite_note-35')
+    ('King Abdullah University of Science and Technology', '/wiki/King_Abdullah_University_of_Science_and_Technology')
+    ('[36]', '#cite_note-36')
+    ('Thomas F. Rosenbaum', '/wiki/Thomas_Felix_Rosenbaum')
+    ('The Wonderful Company', '/wiki/The_Wonderful_Company')
+    ('[37]', '#cite_note-gift_750mm-37')
+    ('[38]', '#cite_note-38')
+    ('Human Betterment Foundation', '/wiki/Human_Betterment_Foundation')
+    ('[39]', '#cite_note-Rosenbaum-39')
+
+
+  Top 5 frequent words: 
+    caltech -> 6
+    2013 -> 3
+    president -> 3
+    gift -> 3
+    einstein -> 2
 
 
 
@@ -159,340 +288,279 @@ Contents of Wikipedia Page
 2 Campus:
 
   Hyperlinks: (text, url) 
-    ('[37]', '#cite_note-38')
-    ('[38]', '#cite_note-39')
+    ('Pasadena, California', '/wiki/Pasadena,_California')
+    ('downtown Los Angeles', '/wiki/Downtown_Los_Angeles')
+    ('Old Town Pasadena', '/wiki/Old_Town_Pasadena')
+    ('Pasadena Playhouse District', '/wiki/Playhouse_District,_Pasadena,_California')
+    ('Bertram Goodhue', '/wiki/Bertram_Goodhue')
+    ('Spanish mission architecture', '/wiki/Architecture_of_the_California_Missions')
+    ('Arnold O. Beckman', '/wiki/Arnold_O._Beckman')
+    ('[40]', '#cite_note-hundred-40')
+    ('[40]', '#cite_note-hundred-40')
+    ('David Baltimore', '/wiki/David_Baltimore')
+    ('[40]', '#cite_note-hundred-40')
+    ('magnitude-6.6 earthquake', '/wiki/1971_San_Fernando_earthquake')
+    ('San Fernando', '/wiki/San_Fernando,_California')
+    ('Walter', '/wiki/Walter_Annenberg')
+    ('Leonore Annenberg', '/wiki/Leonore_Annenberg')
+    ('[41]', '#cite_note-41')
+    ('[42]', '#cite_note-42')
+    ('[43]', '#cite_note-43')
+    ('south houses', '/wiki/House_System_at_the_California_Institute_of_Technology#South_Houses')
+    ('solar array', '/wiki/Solar_array')
+    ('[44]', '#cite_note-44')
 
 
   Top 5 frequent words: 
-    campus -> 6
-    aldrich -> 5
-    core -> 4
-    park -> 4
-    road -> 4
+    caltech -> 6
+    campus -> 5
+    pasadena -> 3
+    beckman -> 3
+    caltechs -> 2
 
 
 
 
-2.1 Surroundings:
+3 Organization_and_administration:
 
   Hyperlinks: (text, url) 
-    ('Irvine, California', '/wiki/Irvine,_California')
-    ('[39]', '#cite_note-40')
-    ('Disneyland', '/wiki/Disneyland')
-    ('Newport Beach', '/wiki/Newport_Beach')
-    ('Newport Coast', '/wiki/Newport_Coast')
-    ('San Diego Creek', '/wiki/San_Diego_Creek')
-    ('405 freeway', '/wiki/Interstate_405_(California)')
-    ('Culver Drive', '/wiki/Culver_Drive,_Irvine,_California')
-    ('California State Route 73', '/wiki/California_State_Route_73')
-    ('UCI Arboretum', '/wiki/University_of_California,_Irvine,_Arboretum')
-    ('wingnut', '/wiki/Nut_(hardware)')
-    ('Irvine Company', '/wiki/Irvine_Company')
-    ('cougar', '/wiki/Cougar')
-    ('hawks', '/wiki/Hawk')
-    ('golden eagles', '/wiki/Golden_eagle')
-    ('great blue herons', '/wiki/Great_blue_heron')
-    ('squirrels', '/wiki/Squirrel')
-    ('opossums', '/wiki/Opossum')
-    ('peregrine falcons', '/wiki/Peregrine_falcon')
-    ('raccoons', '/wiki/Raccoon')
-    ('owls', '/wiki/Owl')
-    ('skunks', '/wiki/Skunk')
-    ('weasels', '/wiki/Weasel')
-    ('bats', '/wiki/Bat')
-    ('coyotes', '/wiki/Coyote')
-    ('UCI Arboretum', '/wiki/University_of_California,_Irvine,_Arboretum')
+    ('board of trustees', '/wiki/Board_of_directors')
+    ('[15]', '#cite_note-incorporation-15')
+    ('[45]', '#cite_note-bylaws-45')
+    ('The current board', '/wiki/List_of_California_Institute_of_Technology_trustees')
+    ('David L. Lee', '/wiki/David_L._Lee')
+    ('Global Crossing Ltd.', '/wiki/Global_Crossing_Ltd.')
+    ('[45]', '#cite_note-bylaws-45')
+    ('Georgia Tech', '/wiki/Georgia_Institute_of_Technology')
+    ('Jean-Lou Chameau', '/wiki/Jean-Lou_Chameau')
+    ('David Baltimore', '/wiki/David_Baltimore')
+    ('[46]', '#cite_note-46')
+    ('[47]', '#cite_note-47')
+    ('Thomas F. Rosenbaum', '/wiki/Thomas_Felix_Rosenbaum')
+    ('[48]', '#cite_note-faculty_handbook-48')
+    ('Jet Propulsion Laboratory', '/wiki/Jet_Propulsion_Laboratory')
+    ('federally funded research and development center', '/wiki/Federally_funded_research_and_development_center')
+    ('NASA', '/wiki/NASA')
+    ('[49]', '#cite_note-49')
+    ('[50]', '#cite_note-officers-50')
 
 
   Top 5 frequent words: 
-    campus -> 9
-    california -> 5
-    uci -> 5
-    irvine -> 4
-    university -> 3
-
-
-
-
-2.2 Architecture:
-
-  Hyperlinks: (text, url) 
-    ('William Pereira', '/wiki/William_Pereira')
-    ('A. Quincy Jones', '/wiki/A._Quincy_Jones')
-    ('Frederick Law Olmsted', '/wiki/Frederick_Law_Olmsted')
-    ('Central Park', '/wiki/Central_Park')
-    ('[40]', '#cite_note-41')
-    ('postmodern', '/wiki/Postmodern')
-    ('Frank Gehry', '/wiki/Frank_Gehry')
-    ('Robert Venturi', '/wiki/Robert_Venturi')
-    ('Eric Owen Moss', '/wiki/Eric_Owen_Moss')
-    ('James Stirling', '/wiki/James_Stirling_(architect)')
-    ('Arthur Erickson', '/wiki/Arthur_Erickson')
-    ('Curtis W. Fentress', '/wiki/Curtis_W._Fentress')
-    ('[24]', '#cite_note-lib-25')
-    ('[41]', '#cite_note-42')
-
-
-  Top 5 frequent words: 
-    buildings -> 8
-    campus -> 7
-    park -> 6
-    building -> 6
-    designed -> 5
-
-
-
-
-2.3 Libraries_and_study_centers:
-
-  Hyperlinks: (text, url) 
-    ('Critical Theory', '/wiki/Critical_Theory')
-
-
-  Top 5 frequent words: 
-    study -> 8
-    center -> 5
-    computer -> 5
-    libraries -> 3
-    also -> 3
-
-
-
-
-2.4 Tunnels:
-
-  Hyperlinks: (text, url) 
-    ('tunnels', '/wiki/Tunnel')
-    ('citation needed', '/wiki/Wikipedia:Citation_needed')
-
-
-  Top 5 frequent words: 
-    tunnels -> 7
-    main -> 3
-    major -> 2
-    buildings -> 2
-    campus -> 2
-
-
-
-
-3 Governance:
-
-  Hyperlinks: (text, url) 
-    ('University of California', '/wiki/University_of_California')
-    ('[46]', '#cite_note-47')
-    ('[47]', '#cite_note-48')
-    ('Regents of the University of California', '/wiki/Regents_of_the_University_of_California')
-    ('[48]', '#cite_note-49')
-    ('[49]', '#cite_note-50')
-
-
-  Top 5 frequent words: 
-    chancellor -> 7
-    uc -> 4
-    academic -> 4
-    campus -> 4
-    university -> 3
+    caltech -> 7
+    president -> 6
+    institute -> 5
+    board -> 4
+    faculty -> 4
 
 
 
 
 4 Academics:
 
-  No Hyperlinks
-
-
-
-
-4.1 Academic_units:
-
   Hyperlinks: (text, url) 
-    ('academic units', '/wiki/Faculty_(division)')
-    ('school year', '/wiki/School_year')
-    ('interdisciplinary', '/wiki/Interdisciplinary')
-    ('[50]', '#cite_note-51')
-    ('[51]', '#cite_note-52')
-    ('[52]', '#cite_note-53')
-    ('[53]', '#cite_note-54')
-    ('Regents of the University of California', '/wiki/Regents_of_the_University_of_California')
-    ('[54]', '#cite_note-55')
-    ('Bill Gross', '/wiki/Bill_H._Gross')
-    ('Sue and Bill Gross School of Nursing', '/wiki/Sue_and_Bill_Gross_School_of_Nursing')
-    ('University of California Regents', '/wiki/University_of_California_Regents')
-    ('[55]', '#cite_note-56')
-    ('[56]', '#cite_note-57')
-    ('[57]', '#cite_note-58')
-    ('[58]', '#cite_note-59')
+    ('[51]', '#cite_note-carnegie-51')
+    ('Western Association of Schools and Colleges', '/wiki/Western_Association_of_Schools_and_Colleges')
+    ('[52]', '#cite_note-52')
+    ('[53]', '#cite_note-53')
+    ('quarter system', '/wiki/Academic_term')
+    ('[54]', '#cite_note-cds-54')
+    ('[55]', '#cite_note-55')
 
 
   Top 5 frequent words: 
-    school -> 10
-    uc -> 3
-    academic -> 3
-    sciences -> 3
-    regents -> 3
+    term -> 3
+    starts -> 3
+    ends -> 3
+    caltech -> 2
+    late -> 2
 
 
 
 
-4.2 Health_care:
-
-  Hyperlinks: (text, url) 
-    ('[59]', '#cite_note-60')
-    ('[60]', '#cite_note-61')
-
-
-  Top 5 frequent words: 
-    science -> 3
-    school -> 2
-    medical -> 2
-    basic -> 2
-    medicine -> 1
-
-
-
-
-4.3 Research_organizations:
+4.1 Rankings:
 
   Hyperlinks: (text, url) 
-    ('[61]', '#cite_note-62')
-
-
-  Top 5 frequent words: 
-    research -> 6
-    center -> 3
-    housed -> 2
-    centercenter -> 2
-    centerinstitute -> 2
-
-
-
-
-4.4 Rankings:
-
-  No Hyperlinks
-
-
-
-
-4.4.1 Global:
-
-  Hyperlinks: (text, url) 
-    ('Times Higher Education', '/wiki/Times_Higher_Education')
-    ('[75]', '#cite_note-Times_Higher_Education-100_under_50-76')
+    ('U.S. News & World Report', '/wiki/U.S._News_%26_World_Report')
+    ('[67]', '#cite_note-67')
+    ('[68]', '#cite_note-68')
+    ('Times Higher Education World University Rankings', '/wiki/Times_Higher_Education_World_University_Rankings')
+    ('[69]', '#cite_note-69')
+    ('[70]', '#cite_note-70')
+    ('[71]', '#cite_note-71')
+    ('[72]', '#cite_note-72')
 
 
   Top 5 frequent words: 
     world -> 4
-    1st -> 4
-    us -> 4
-    uci -> 2
-    7th -> 2
+    ranked -> 4
+    us -> 2
+    news -> 2
+    report -> 2
 
 
 
 
-4.4.2 National:
-
-  Hyperlinks: (text, url) 
-    ('U.S. News & World Report', '/wiki/U.S._News_%26_World_Report')
-    ('[76]', '#cite_note-USNWR-77')
-    ('Money', '/wiki/Money_(magazine)')
-    ('[77]', '#cite_note-78')
-    ('Forbes', '/wiki/Forbes')
-    ('[78]', '#cite_note-79')
-    ('Kiplinger', '/wiki/Kiplinger')
-    ('[79]', '#cite_note-80')
-    ('Sierra Magazine', '/wiki/Sierra_Club')
-    ('[80]', '#cite_note-81')
-    ('[81]', '#cite_note-82')
-    ('[76]', '#cite_note-USNWR-77')
-
-
-  Top 5 frequent words: 
-    ranked -> 8
-    best -> 5
-    tied -> 4
-    uci -> 4
-    us -> 3
-
-
-
-
-4.4.3 Learned_societies_affiliations:
+4.2 Admissions:
 
   Hyperlinks: (text, url) 
-    ('learned societies', '/wiki/Learned_societies')
-
-
-  Top 5 frequent words: 
-    academy -> 5
-    sciences -> 2
-    32 -> 2
-    association -> 2
-    society -> 2
-
-
-
-
-4.5 Admissions:
-
-  Hyperlinks: (text, url) 
-    ('U.S. News & World Report', '/wiki/U.S._News_%26_World_Report')
-    ('[88]', '#cite_note-89')
-    ('University of California', '/wiki/University_of_California')
-    ('UC Berkeley', '/wiki/UC_Berkeley')
-    ('UCLA', '/wiki/UCLA')
-    ('[89]', '#cite_note-90')
+    ('[73]', '#cite_note-admissions.caltech.edu-73')
+    ('[74]', '#cite_note-74')
     ('SAT', '/wiki/SAT')
-    ('[90]', '#cite_note-91')
-    ('Los Angeles County', '/wiki/Los_Angeles_County')
-    ('Orange County', '/wiki/Orange_County,_California')
-    ('Bay Area', '/wiki/San_Francisco_Bay_Area')
-    ('San Bernardino County', '/wiki/San_Bernardino_County')
-    ('Riverside County', '/wiki/Riverside_County')
-    ('San Diego County', '/wiki/San_Diego_County')
-    ('[91]', '#cite_note-92')
-    ('[92]', '#cite_note-University_of_California,_Irvine-93')
-    ('[93]', '#cite_note-94')
-    ('[92]', '#cite_note-University_of_California,_Irvine-93')
-    ('[94]', '#cite_note-95')
-    ('Proposition 209', '/wiki/1996_California_Proposition_209')
-    ('affirmative action', '/wiki/Affirmative_action')
+    ('ACT', '/wiki/ACT_(test)')
+    ('[73]', '#cite_note-admissions.caltech.edu-73')
 
 
   Top 5 frequent words: 
-    uc -> 5
-    sciences -> 5
-    fall -> 4
-    2019 -> 4
-    sat -> 4
+    sat -> 5
+    middle -> 4
+    50 -> 4
+    range -> 4
+    class -> 3
 
 
 
 
-5 Discoveries_and_innovation:
-
-  No Hyperlinks
-
-
-
-
-5.1 Machine_Learning_Repository:
+4.3 Tuition_and_financial_aid:
 
   Hyperlinks: (text, url) 
-    ('machine learning', '/wiki/Machine_learning')
-    ('data mining', '/wiki/Data_mining')
-    ('[96]', '#cite_note-97')
-    ('[97]', '#cite_note-98')
+    ('[75]', '#cite_note-75')
+    ('[54]', '#cite_note-cds-54')
 
 
   Top 5 frequent words: 
-    machine -> 3
-    learning -> 3
-    irvine -> 2
-    repository -> 2
-    data -> 2
+    aid -> 4
+    students -> 3
+    undergraduate -> 2
+    million -> 2
+    average -> 2
+
+
+
+
+4.4 Undergraduate_program:
+
+  Hyperlinks: (text, url) 
+    ('[51]', '#cite_note-carnegie-51')
+    ('[76]', '#cite_note-76')
+    ('[77]', '#cite_note-Office_of_the_Registrar_Newsletter-77')
+    ('[78]', '#cite_note-78')
+    ('[79]', '#cite_note-79')
+    ('[80]', '#cite_note-fah-80')
+    ('[81]', '#cite_note-81')
+    ('[80]', '#cite_note-fah-80')
+    ('homework', '/wiki/Homework')
+    ('[82]', '#cite_note-82')
+    ('Art Center College of Design', '/wiki/Art_Center_College_of_Design')
+    ('Occidental College', '/wiki/Occidental_College')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=California_Institute_of_Technology&action=edit')
+    ('PayScale', '/w/index.php?title=PayScale&action=edit&redlink=1')
+    ('[83]', '#cite_note-83')
+    ('[84]', '#cite_note-84')
+    ('ROTC', '/wiki/ROTC')
+    ('University of Southern California', '/wiki/University_of_Southern_California')
+    ('[54]', '#cite_note-cds-54')
+
+
+  Top 5 frequent words: 
+    terms -> 9
+    caltech -> 5
+    two -> 5
+    units -> 5
+    offers -> 4
+
+
+
+
+4.5 Graduate_program:
+
+  Hyperlinks: (text, url) 
+    ('[51]', '#cite_note-carnegie-51')
+    ('[51]', '#cite_note-carnegie-51')
+    ('[77]', '#cite_note-Office_of_the_Registrar_Newsletter-77')
+    ('GRE', '/wiki/Graduate_Record_Examination')
+    ('[85]', '#cite_note-85')
+    ('Keck School of Medicine of the University of Southern California', '/wiki/Keck_School_of_Medicine_of_USC')
+    ('UCLA David Geffen School of Medicine', '/wiki/UCLA_David_Geffen_School_of_Medicine')
+    ('USC', '/wiki/University_of_Southern_California')
+    ('UCLA', '/wiki/UCLA')
+    ('[86]', '#cite_note-86')
+    ('[87]', '#cite_note-87')
+    ('[88]', '#cite_note-88')
+    ('[89]', '#cite_note-89')
+    ('[90]', '#cite_note-90')
+
+
+  Top 5 frequent words: 
+    graduate -> 7
+    students -> 7
+    engineering -> 3
+    degree -> 3
+    phd -> 3
+
+
+
+
+5 Research:
+
+  Hyperlinks: (text, url) 
+    ('classified', '/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education')
+    ('[91]', '#cite_note-91')
+    ('Association of American Universities', '/wiki/Association_of_American_Universities')
+    ('STEM fields', '/wiki/STEM_fields')
+    ('[8]', '#cite_note-aau-8')
+    ('[51]', '#cite_note-carnegie-51')
+    ('[92]', '#cite_note-92')
+    ('[93]', '#cite_note-nsf_expenditures-93')
+    ('[94]', '#cite_note-94')
+    ('NASA', '/wiki/NASA')
+    ('National Science Foundation', '/wiki/National_Science_Foundation')
+    ('Department of Health and Human Services', '/wiki/United_States_Department_of_Health_and_Human_Services')
+    ('Department of Defense', '/wiki/United_States_Department_of_Defense')
+    ('Department of Energy', '/wiki/United_States_Department_of_Energy')
+    ('[95]', '#cite_note-95')
+    ('[96]', '#cite_note-96')
+    ('[97]', '#cite_note-annual_report-97')
+    ('National Science Foundation', '/wiki/National_Science_Foundation')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=California_Institute_of_Technology&action=edit')
+    ('[98]', '#cite_note-98')
+    ('[99]', '#cite_note-99')
+    ('Palomar Observatory', '/wiki/Palomar_Observatory')
+    ('San Diego County', '/wiki/San_Diego_County,_California')
+    ('Owens Valley Radio Observatory', '/wiki/Owens_Valley_Radio_Observatory')
+    ('Bishop, California', '/wiki/Bishop,_California')
+    ('Submillimeter Observatory', '/wiki/Caltech_Submillimeter_Observatory')
+    ('W. M. Keck Observatory', '/wiki/W._M._Keck_Observatory')
+    ('Mauna Kea Observatory', '/wiki/Mauna_Kea_Observatory')
+    ('Laser Interferometer Gravitational-Wave Observatory', '/wiki/LIGO')
+    ('Livingston, Louisiana', '/wiki/Livingston,_Louisiana')
+    ('Richland, Washington', '/wiki/Richland,_Washington')
+    ('Kerckhoff Marine Laboratory', '/wiki/Kerckhoff_Marine_Laboratory')
+    ('Corona del Mar, California', '/wiki/Corona_del_Mar,_California')
+    ('[48]', '#cite_note-faculty_handbook-48')
+    ('[100]', '#cite_note-Kavli_Nanoscience_Institute_(website)-100')
+    ('Keck Institute for Space Studies', '/wiki/Keck_Institute_for_Space_Studies')
+    ('Einstein Papers Project', '/wiki/Einstein_Papers_Project')
+    ('Infrared Processing and Analysis Center', '/wiki/Infrared_Processing_and_Analysis_Center')
+    ('NASA', '/wiki/NASA')
+    ('Spitzer Space Telescope', '/wiki/Spitzer_Space_Telescope')
+    ('Caltech', '/wiki/Caltech')
+    ('UCLA', '/wiki/UCLA')
+    ('TCCON', '/wiki/Total_Carbon_Column_Observing_Network')
+    ('Summer Undergraduate Research Fellowships (SURF)', 'http://surf.caltech.edu/')
+    ('[101]', '#cite_note-101')
+    ('[102]', '#cite_note-102')
+    ('Technology Transfer', '/wiki/Technology_Transfer')
+    ('[103]', '#cite_note-103')
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=California_Institute_of_Technology&action=edit')
+    ('[104]', '#cite_note-104')
+
+
+  Top 5 frequent words: 
+    caltech -> 14
+    research -> 11
+    million -> 9
+    sciences -> 6
+    observatory -> 6
 
 
 
@@ -504,272 +572,519 @@ Contents of Wikipedia Page
 
 
 
-6.1 Fraternities_and_sororities:
+6.1 House_system:
 
   Hyperlinks: (text, url) 
-    ('fraternities and sororities', '/wiki/Fraternities_and_sororities')
-    ('Delta Gamma', '/wiki/Delta_Gamma')
-    ('Pi Beta Phi', '/wiki/Pi_Beta_Phi')
-    ('Gamma Phi Beta', '/wiki/Gamma_Phi_Beta')
-    ('Beta Theta Pi', '/wiki/Beta_Theta_Pi')
-    ('Sigma Chi', '/wiki/Sigma_Chi')
-    ('Phi Delta Theta', '/wiki/Phi_Delta_Theta')
-    ('[99]', '#cite_note-100')
-    ('[100]', '#cite_note-101')
+    ('fraternities', '/wiki/Fraternities_and_sororities')
+    ('house system', '/wiki/Residential_college')
+    ('Blacker House', '/wiki/House_System_at_the_California_Institute_of_Technology#Blacker_House')
+    ('Dabney House', '/wiki/House_System_at_the_California_Institute_of_Technology#Dabney_House')
+    ('Fleming House', '/wiki/House_System_at_the_California_Institute_of_Technology#Fleming_House')
+    ('Ricketts House', '/wiki/House_System_at_the_California_Institute_of_Technology#Ricketts_House')
+    ('Lloyd House', '/wiki/House_System_at_the_California_Institute_of_Technology#Lloyd_House')
+    ('Page House', '/wiki/Page_House_(Caltech)')
+    ('Ruddock House', '/wiki/House_System_at_the_California_Institute_of_Technology#Ruddock_House')
+    ('Avery House', '/wiki/House_System_at_the_California_Institute_of_Technology#Avery_House')
+    ('[105]', '#cite_note-105')
+    ('[106]', '#cite_note-houses-106')
+    ('Human Betterment Foundation', '/wiki/Human_Betterment_Foundation')
+    ('[39]', '#cite_note-Rosenbaum-39')
 
 
   Top 5 frequent words: 
-    greek -> 4
-    beta -> 3
-    phi -> 3
-    fraternities -> 2
-    sororities -> 2
+    house -> 11
+    caltech -> 3
+    system -> 3
+    houses -> 3
+    four -> 2
 
 
 
 
-6.2 Clubs_and_organizations:
-
-  Hyperlinks: (text, url) 
-    ('[101]', '#cite_note-102')
-    ('ASUCI', '/wiki/ASUCI')
-    ('student government', '/wiki/Student_government')
-    ('world record', '/wiki/World_record')
-    ('academic year', '/wiki/Academic_year')
-    ('Guinness World Records', '/wiki/Guinness_World_Records')
-    ('capture the flag', '/wiki/Capture_the_flag')
-    ('dodgeball', '/wiki/Dodgeball')
-    ('[102]', '#cite_note-UCI_Guinness_World_Record-103')
-    ('[103]', '#cite_note-UCI_Records-104')
-    ('water pistol', '/wiki/Water_pistol')
-    ('pillow fight', '/wiki/Pillow_fight')
-    ('[104]', '#cite_note-UCI_Records_Pillow-105')
-    ('Office of Civil Rights', '/wiki/Office_of_Civil_Rights')
-    ('United States Department of Education', '/wiki/United_States_Department_of_Education')
-    ('US Department of Education', '/wiki/United_States_Department_of_Education')
-    ('Office for Civil Rights', '/wiki/Office_for_Civil_Rights')
-    ('[105]', '#cite_note-OCR-106')
-    ('[106]', '#cite_note-107')
-    ('Hillel', '/wiki/Hillel_International')
-    ('[107]', '#cite_note-108')
-
-
-  Top 5 frequent words: 
-    uci -> 4
-    largest -> 4
-    university -> 3
-    student -> 2
-    organizations -> 2
-
-
-
-
-6.2.1 Irvine_11_controversy:
+6.2 Athletics:
 
   Hyperlinks: (text, url) 
-    ('Muslim Student Union', '/wiki/Muslim_Student_Union_of_the_University_of_California,_Irvine')
-    ('Michael Oren', '/wiki/Michael_Oren')
-    ('[108]', '#cite_note-109')
-    ('[109]', '#cite_note-110')
-    ('selective prosecution', '/wiki/Selective_prosecution')
-    ('Palestinians', '/wiki/Israeli%E2%80%93Palestinian_conflict')
-    ('[110]', '#cite_note-111')
-    ('[111]', '#cite_note-112')
-    ('[112]', '#cite_note-113')
-    ('[113]', '#cite_note-114')
-
-
-  Top 5 frequent words: 
-    students -> 5
-    charges -> 3
-    union -> 2
-    protest -> 2
-    speech -> 2
-
-
-
-
-6.3 Residential_accommodations:
-
-  Hyperlinks: (text, url) 
-    ('[114]', '#cite_note-evc.uci.edu-115')
-    ('The Hobbit', '/wiki/The_Hobbit')
-    ('Alpha Phi', '/wiki/Alpha_Phi')
-    ('Delta Delta Delta', '/wiki/Delta_Delta_Delta')
-    ('Delta Gamma', '/wiki/Delta_Gamma')
-    ('Gamma Phi Beta', '/wiki/Gamma_Phi_Beta')
-    ('Pi Beta Phi', '/wiki/Pi_Beta_Phi')
-    ('Alpha Chi Omega', '/wiki/Alpha_Chi_Omega')
-    ('Kappa Alpha Theta', '/wiki/Kappa_Alpha_Theta')
-    ('Sigma Phi Epsilon', '/wiki/Sigma_Phi_Epsilon')
-    ('Sigma Chi', '/wiki/Sigma_Chi')
-    ('Phi Gamma Delta', '/wiki/Phi_Gamma_Delta')
-    ('Kappa Sigma', '/wiki/Kappa_Sigma')
-    ('First Year Experience', '/wiki/First_Year_Experience')
-    ('[115]', '#cite_note-116')
-    ('Irvine', '/wiki/Irvine,_California')
-    ('The Irvine Company', '/wiki/The_Irvine_Company')
-    ('[116]', '#cite_note-117')
-    ('Newport Beach', '/wiki/Newport_Beach,_California')
-    ('[117]', '#cite_note-118')
-    ('Tustin', '/wiki/Tustin,_California')
-    ('[118]', '#cite_note-119')
-
-
-  Top 5 frequent words: 
-    vista -> 11
-    del -> 10
-    houses -> 10
-    housing -> 9
-    students -> 8
-
-
-
-
-7 Athletics:
-
-  Hyperlinks: (text, url) 
-    ('Anteaters', '/wiki/Anteaters')
+    ('[107]', '#cite_note-107')
+    ('[108]', '#cite_note-108')
     ('NCAA', '/wiki/National_Collegiate_Athletic_Association')
-    ('Big West Conference', '/wiki/Big_West_Conference')
-    ('[119]', '#cite_note-120')
-    ('Mountain Pacific Sports Federation', '/wiki/Mountain_Pacific_Sports_Federation')
-    ('[120]', '#cite_note-121')
-    ("the men's volleyball team", '/wiki/UC_Irvine_Anteaters_men%27s_volleyball')
-    ('UC Irvine Anteaters baseball', '/wiki/UC_Irvine_Anteaters_baseball')
-    ('In 2015', '/wiki/2015_NCAA_Division_I_Men%27s_Basketball_Tournament')
-    ("UC Irvine Anteaters men's basketball", '/wiki/UC_Irvine_Anteaters_men%27s_basketball')
-    ('Division I tournament', '/wiki/NCAA_Men%27s_Division_I_Basketball_Championship')
-    ('Louisville', '/wiki/Louisville_Cardinals_men%27s_basketball')
-    ('in 2019', '/wiki/2019_NCAA_Division_I_Men%27s_Basketball_Tournament')
-    ('Kansas State University', '/wiki/Kansas_State_University')
+    ('Division III', '/wiki/NCAA_Division_III')
+    ('Southern California Intercollegiate Athletic Conference', '/wiki/Southern_California_Intercollegiate_Athletic_Conference')
+    ('[109]', '#cite_note-109')
+    ('Bard College', '/wiki/Bard_College')
+    ('[110]', '#cite_note-110')
+    ('Occidental College', '/wiki/Occidental_College')
+    ('[111]', '#cite_note-111')
+    ('[112]', '#cite_note-112')
+    ('[113]', '#cite_note-113')
+    ('Quantum Hoops', '/wiki/Quantum_Hoops')
+    ('Pomona', '/wiki/Pomona_College')
+    ('Pitzer', '/wiki/Pitzer_College')
+    ('Sagehens', '/wiki/Pomona-Pitzer_Sagehens')
+    ('Dr. Robert Grubbs', '/wiki/Robert_Grubbs')
+    ('[114]', '#cite_note-114')
+    ('Whittier College', '/wiki/Whittier_College')
+    ('[115]', '#cite_note-115')
+    ('Ultimate', '/wiki/Ultimate_(sport)')
+    ('[116]', '#cite_note-116')
+    ('[117]', '#cite_note-117')
+    ('Tournament Park', '/wiki/Tournament_Park')
+    ('Rose Bowl Game', '/wiki/Rose_Bowl_Game')
+    ('Rose Bowl', '/wiki/Rose_Bowl_(stadium)')
 
 
   Top 5 frequent words: 
-    ncaa -> 11
-    division -> 10
-    national -> 9
-    baseball -> 8
-    team -> 8
+    team -> 10
+    womens -> 9
+    caltech -> 5
+    mens -> 5
+    first -> 5
 
 
 
 
-7.1 Anteater_as_mascot:
+6.3 Performing_and_visual_arts:
 
   Hyperlinks: (text, url) 
-    ('anteater', '/wiki/Anteater')
-    ('[121]', '#cite_note-122')
-    ('Johnny Hart', '/wiki/Johnny_Hart')
-    ('B.C.', '/wiki/B.C._(comic_strip)')
-    ('[122]', '#cite_note-123')
-    ('Tracy Caldwell', '/wiki/Tracy_Caldwell')
-    ('Space Shuttle Endeavour', '/wiki/Space_Shuttle_Endeavour')
-    ('STS-118', '/wiki/STS-118')
-    ('[123]', '#cite_note-124')
-    ('Mashable', '/wiki/Mashable')
-    ('[124]', '#cite_note-125')
-    ('Conan', '/wiki/Conan_(talk_show)')
-    ('[125]', '#cite_note-126')
+    ('Occidental College', '/wiki/Occidental_College')
+    ('Glee Club', '/wiki/Glee_Club')
+    ('[118]', '#cite_note-118')
+    ('PHD Movie', '/wiki/PHD_Comics#Piled_Higher_and_Deeper:_the_Movie')
 
 
   Top 5 frequent words: 
-    anteater -> 8
-    mascot -> 4
+    caltech -> 5
+    college -> 3
+    orchestra -> 3
+    occidental -> 2
+    three -> 2
+
+
+
+
+6.4 Student_life_traditions:
+
+  No Hyperlinks
+
+
+
+
+6.4.1 Annual_events:
+
+  Hyperlinks: (text, url) 
+    ('Halloween', '/wiki/Halloween')
+    ('liquid nitrogen', '/wiki/Liquid_nitrogen')
+    ('triboluminescent', '/wiki/Triboluminescence')
+    ('Millikan oil-drop experiment', '/wiki/Oil-drop_experiment')
+    ('elemental unit of electrical charge', '/wiki/Elementary_charge')
+    ('ditch school', '/wiki/Ditch_school')
+    ('Ride of the Valkyries', '/wiki/Ride_of_the_Valkyries')
+    ('The Ring Cycle', '/wiki/The_Ring_Cycle')
+
+
+  Top 5 frequent words: 
+    underclassmen -> 4
+    millikan -> 3
+    event -> 3
+    ditch -> 3
+    seniors -> 3
+
+
+
+
+6.4.2 Pranks:
+
+  Hyperlinks: (text, url) 
+    ('pranks', '/wiki/Student_prank')
+    ('[119]', '#cite_note-Caltech1-119')
+    ('Hollywood Sign', '/wiki/Hollywood_Sign')
+    ('1984 Rose Bowl Game', '/wiki/1984_Rose_Bowl')
+    ('1961 Rose Bowl Game', '/wiki/1961_Rose_Bowl')
+    ('Great Rose Bowl Hoax', '/wiki/Great_Rose_Bowl_Hoax')
+    ('[120]', '#cite_note-120')
+    ('Greenwich Village', '/wiki/Greenwich_Village')
+    ('The Cube', '/wiki/Alamo_(sculpture)')
+    ('Aperture Science', '/wiki/Aperture_Science')
+    ('Portal', '/wiki/Portal_(video_game)')
+    ('[121]', '#cite_note-121')
+    ('Mason Porter', '/wiki/Mason_Porter')
+
+
+  Top 5 frequent words: 
+    caltech -> 8
     students -> 3
-    1965 -> 2
-    candidates -> 2
+    recent -> 3
+    rose -> 3
+    bowl -> 3
 
 
 
 
-8 People:
+6.4.2.1 Rivalry_with_MIT:
 
   Hyperlinks: (text, url) 
-    ('[126]', '#cite_note-127')
-    ('Steve Scott', '/wiki/Steve_Scott_(athlete)')
-    ('Scott Brooks', '/wiki/Scott_Brooks')
-    ('Greg Louganis', '/wiki/Greg_Louganis')
-    ('Bob Gunton', '/wiki/Bob_Gunton')
-    ('James LeGros', '/wiki/James_LeGros')
-    ('Jon Lovitz', '/wiki/Jon_Lovitz')
-    ('Brian Thompson', '/wiki/Brian_Thompson')
-    ('Teal Wicks', '/wiki/Teal_Wicks')
-    ('Windell Middlebrooks', '/wiki/Windell_Middlebrooks')
-    ('Roy Fielding', '/wiki/Roy_Fielding')
-    ('Paul Mockapetris', '/wiki/Paul_Mockapetris')
-    ('Patrick J. Hanratty', '/wiki/Patrick_J._Hanratty')
-    ('Erin Gruwell', '/wiki/Erin_Gruwell')
-    ('Kevin Kwan Loucks', '/wiki/Kevin_Kwan_Loucks')
-    ('Mika Tosca', '/wiki/Mika_Tosca')
-    ('Tracy Caldwell Dyson', '/wiki/Tracy_Caldwell_Dyson')
-    ('[127]', '#cite_note-UC-128')
-    ('even people', '/wiki/List_of_Nobel_laureates_by_university_affiliation_II')
-    ('Nobel Prize', '/wiki/Nobel_Prize')
-    ('Frank Sherwood Rowland', '/wiki/Frank_Sherwood_Rowland')
-    ('Nobel Prize in Chemistry', '/wiki/Nobel_Prize_in_Chemistry')
-    ('Frederick Reines', '/wiki/Frederick_Reines')
-    ('Nobel Prize in Physics', '/wiki/Nobel_Prize_in_Physics')
-    ('CFCs', '/wiki/Chlorofluorocarbon')
-    ('ozone layer', '/wiki/Ozone_layer')
-    ('neutrino', '/wiki/Neutrino')
-    ('Irwin Rose', '/wiki/Irwin_Rose')
-    ('Technion', '/wiki/Technion')
-    ('Pulitzer Prize', '/wiki/Pulitzer_Prize')
-    ('[18]', '#cite_note-Notable_Alumni-18')
-    ('[19]', '#cite_note-Faculty_Awards_and_Honors-19')
-    ('Michael Chabon', '/wiki/Michael_Chabon')
-    ('Pulitzer Prize for Fiction', '/wiki/Pulitzer_Prize_for_Fiction')
-    ('The Amazing Adventures of Kavalier & Clay', '/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay')
-    ('Richard Ford', '/wiki/Richard_Ford')
-    ('Independence Day', '/wiki/Independence_Day_(Ford_novel)')
-    ('Jonathan Pendragon', '/wiki/Jonathan_Pendragon')
-    ('[128]', '#cite_note-129')
-    ('Thomas Keneally', '/wiki/Thomas_Keneally')
-    ('[129]', '#cite_note-130')
-    ("Schindler's Ark", '/wiki/Schindler%27s_Ark')
-    ("Schindler's List", '/wiki/Schindler%27s_List')
-    ('Steven Spielberg', '/wiki/Steven_Spielberg')
-    ('Jacques Derrida', '/wiki/Jacques_Derrida')
-    ('[130]', '#cite_note-131')
-    ('Ralph J. Cicerone', '/wiki/Ralph_J._Cicerone')
-    ('National Academy of Sciences', '/wiki/United_States_National_Academy_of_Sciences')
-    ('[131]', '#cite_note-132')
+    ('MIT hackers', '/wiki/Hacks_at_the_Massachusetts_Institute_of_Technology')
+    ('Harvey Mudd College', '/wiki/Harvey_Mudd_College')
+    ('Infinite Corridor', '/wiki/Infinite_Corridor')
+    ('[122]', '#cite_note-122')
+    ('[123]', '#cite_note-123')
+    ('TARDIS', '/wiki/TARDIS')
+    ('Doctor Who', '/wiki/Doctor_Who')
+    ('[124]', '#cite_note-124')
+    ('UC Berkeley', '/wiki/UC_Berkeley')
+    ('[125]', '#cite_note-Alessondra_Springmann,_PCWorld-125')
+    ('Stanford', '/wiki/Stanford')
+    ('[126]', '#cite_note-126')
+    ('[127]', '#cite_note-127')
+
+
+  Top 5 frequent words: 
+    students -> 12
+    caltech -> 11
+    campus -> 10
+    mit -> 9
+    institute -> 5
+
+
+
+
+6.4.3 Honor_code:
+
+  Hyperlinks: (text, url) 
+    ('honor code', '/wiki/Honor_code')
+    ('[128]', '#cite_note-128')
+    ('[129]', '#cite_note-129')
+    ('[130]', '#cite_note-130')
+    ('[131]', '#cite_note-131')
+
+
+  Top 5 frequent words: 
+    honor -> 9
+    code -> 7
+    caltech -> 5
+    community -> 5
+    policy -> 4
+
+
+
+
+7 Notable_people:
+
+  Hyperlinks: (text, url) 
+    ('[update]', 'https://en.wikipedia.org/w/index.php?title=California_Institute_of_Technology&action=edit')
+    ('Nobel laureates', '/wiki/Nobel_Prize')
+    ('Carl D. Anderson', '/wiki/Carl_D._Anderson')
+    ('Linus Pauling', '/wiki/Linus_Pauling')
+    ('William A. Fowler', '/wiki/William_A._Fowler')
+    ('Edward B. Lewis', '/wiki/Edward_B._Lewis')
+    ('Kip Thorne', '/wiki/Kip_Thorne')
+    ('Chemistry', '/wiki/Nobel_Prize_in_Chemistry')
+    ('Peace', '/wiki/Nobel_Prize_in_Peace')
+    ('Crafoord Prize', '/wiki/Crafoord_Prize')
+    ('Royal Swedish Academy of Sciences', '/wiki/Royal_Swedish_Academy_of_Sciences')
     ('National Medal of Science', '/wiki/National_Medal_of_Science')
-    ('[132]', '#cite_note-faculty-133')
-    ('Faraday Medal', '/wiki/Faraday_Medal')
-    ('nanowires', '/wiki/Nanowire')
-    ('[133]', '#cite_note-134')
+    ('National Medal of Technology', '/wiki/National_Medal_of_Technology')
+    ('[4]', '#cite_note-at_a_glance-4')
+    ('Stanislav Smirnov', '/wiki/Stanislav_Smirnov')
+    ('Fields Medal', '/wiki/Fields_Medal')
+    ('Barbara McClintock', '/wiki/Barbara_McClintock')
+    ('James D. Watson', '/wiki/James_D._Watson')
+    ('Sheldon Glashow', '/wiki/Sheldon_Glashow')
+    ('John Gurdon', '/wiki/John_Gurdon')
+    ('Albert Einstein', '/wiki/Albert_Einstein')
+    ('Stephen Hawking', '/wiki/Stephen_Hawking')
+    ('Edward Witten', '/wiki/Edward_Witten')
 
 
   Top 5 frequent words: 
-    prize -> 9
-    uci -> 6
-    nobel -> 5
-    professor -> 5
-    faculty -> 3
+    caltech -> 3
+    alumni -> 3
+    professors -> 3
+    received -> 3
+    medal -> 3
 
 
 
 
-9 See_also:
+7.1 Students:
+
+  Hyperlinks: (text, url) 
+    ('[5]', '#cite_note-enrollment-5')
+    ('[132]', '#cite_note-132')
+    ('[54]', '#cite_note-cds-54')
+    ('[133]', '#cite_note-133')
+    ('[134]', '#cite_note-134')
+    ('STEM fields', '/wiki/STEM_fields')
+    ('[135]', '#cite_note-135')
+
+
+  Top 5 frequent words: 
+    students -> 3
+    undergraduate -> 2
+    graduate -> 2
+    school -> 2
+    substantially -> 2
+
+
+
+
+7.2 Alumni:
+
+  Hyperlinks: (text, url) 
+    ('[136]', '#cite_note-136')
+    ('Turing Award', '/wiki/Turing_Award')
+    ('Fields Medal', '/wiki/Fields_Medal')
+    ('[137]', '#cite_note-science_now-137')
+    ('Nobel laureate', '/wiki/Nobel_Prize')
+    ('Carl D. Anderson', '/wiki/Carl_D._Anderson')
+    ('positrons', '/wiki/Positron')
+    ('muons', '/wiki/Muon')
+    ('Edwin McMillan', '/wiki/Edwin_McMillan')
+    ('transuranium element', '/wiki/Transuranium_element')
+    ('Leo James Rainwater', '/wiki/Leo_James_Rainwater')
+    ('Douglas D. Osheroff', '/wiki/Douglas_D._Osheroff')
+    ('superfluid', '/wiki/Superfluid')
+    ('helium-3', '/wiki/Helium-3')
+    ('Donald Knuth', '/wiki/Donald_Knuth')
+    ('analysis of algorithms', '/wiki/Analysis_of_algorithms')
+    ('The Art of Computer Programming', '/wiki/The_Art_of_Computer_Programming')
+    ('TeX', '/wiki/TeX')
+    ('Bruce Reznick', '/wiki/Bruce_Reznick')
+    ('number theory', '/wiki/Number_theory')
+    ('Narendra Karmarkar', '/wiki/Narendra_Karmarkar')
+    ("Karmarkar's algorithm", '/wiki/Karmarkar%27s_algorithm')
+    ('C. Gordon Fullerton', '/wiki/C._Gordon_Fullerton')
+    ('Space Shuttle', '/wiki/Space_Shuttle')
+    ('United States Senator', '/wiki/United_States_Senate')
+    ('Harrison Schmitt', '/wiki/Harrison_Schmitt')
+    ('[138]', '#cite_note-138')
+    ('Eugene Merle Shoemaker', '/wiki/Eugene_Merle_Shoemaker')
+    ('Comet Shoemaker-Levy 9', '/wiki/Comet_Shoemaker-Levy_9')
+    ('Jupiter', '/wiki/Jupiter')
+    ('[139]', '#cite_note-139')
+    ('[140]', '#cite_note-140')
+    ('LCD', '/wiki/LCD')
+    ('[141]', '#cite_note-141')
+    ('Hotmail', '/wiki/Hotmail')
+    ('[142]', '#cite_note-142')
+    ('Compaq', '/wiki/Compaq')
+    ('[143]', '#cite_note-143')
+    ('MathWorks', '/wiki/MathWorks')
+    ('Matlab', '/wiki/Matlab')
+    ('[144]', '#cite_note-144')
+    ('Intel', '/wiki/Intel')
+    ('[145]', '#cite_note-145')
+    ('TRW', '/wiki/TRW_Inc.')
+    ('[146]', '#cite_note-146')
+    ('Exploratorium', '/wiki/Exploratorium')
+    ('[147]', '#cite_note-147')
+    ('Arnold Beckman', '/wiki/Arnold_Orville_Beckman')
+    ('pH meter', '/wiki/PH_meter')
+    ('Beckman Instruments', '/wiki/Beckman_Instruments')
+    ('William Shockley', '/wiki/William_Shockley')
+    ('semiconductor', '/wiki/Semiconductor')
+    ('transistors', '/wiki/Transistor')
+    ('Shockley Semiconductor Laboratory', '/wiki/Shockley_Semiconductor_Laboratory')
+    ('[148]', '#cite_note-Shockley_byNobelPrizeFoundation1956-148')
+    ('Bell Labs', '/wiki/Bell_Labs')
+    ('Frank Jewett', '/wiki/Frank_Jewett')
+    ('Palo Alto, California', '/wiki/Palo_Alto,_California')
+    ('Mountain View, California', '/wiki/Mountain_View,_California')
+    ('[148]', '#cite_note-Shockley_byNobelPrizeFoundation1956-148')
+    ('[149]', '#cite_note-149')
+    ('Nobel Prize in physics', '/wiki/Nobel_Prize_in_physics')
+    ('[150]', '#cite_note-150')
+    ('[151]', '#cite_note-151')
+    ('Sherman Fairchild', '/wiki/Sherman_Fairchild')
+    ('Fairchild Semiconductor', '/wiki/Fairchild_Semiconductor')
+    ('traitorous eight', '/wiki/Traitorous_eight')
+    ('Gordon E. Moore', '/wiki/Gordon_E._Moore')
+    ('Intel', '/wiki/Intel')
+    ('National Semiconductor', '/wiki/National_Semiconductor')
+    ('Advanced Micro Devices', '/wiki/Advanced_Micro_Devices')
+    ('silicon', '/wiki/Silicon')
+    ('germanium', '/wiki/Germanium')
+    ('semiconductor', '/wiki/Semiconductor')
+    ('Silicon Valley', '/wiki/Silicon_Valley')
+    ('[152]', '#cite_note-152')
+    ('Mustafa A.G. Abushagur', '/wiki/Mustafa_A.G._Abushagur')
+    ('Libya', '/wiki/Libya')
+    ('Libya', '/wiki/Libya')
+    ('James Fletcher', '/wiki/James_C._Fletcher')
+    ('Administrator of NASA', '/wiki/Administrator_of_NASA')
+    ('Steven Koonin', '/wiki/Steven_E._Koonin')
+    ('Undersecretary of Energy for Science', '/wiki/Under_Secretary_of_Energy_for_Science')
+    ('Regina Dugan', '/wiki/Regina_E._Dugan')
+    ('DARPA', '/wiki/DARPA')
+    ('Arati Prabhakar', '/wiki/Arati_Prabhakar')
+    ('Charles Elachi', '/wiki/Charles_Elachi')
+    ('Arvind Virmani', '/wiki/Arvind_Virmani')
+    ('Chief Economic Adviser to the Government of India', '/wiki/Chief_Economic_Adviser_to_the_Government_of_India')
+    ('France Cordova', '/wiki/France_Cordova')
+    ('National Science Foundation', '/wiki/National_Science_Foundation')
+    ('ARPA-E', '/wiki/ARPA-E')
+    ('[153]', '#cite_note-153')
+
+
+  Top 5 frequent words: 
+    bs -> 24
+    phd -> 23
+    laureate -> 15
+    nobel -> 14
+    ms -> 9
+
+
+
+
+7.3 Faculty_and_staff:
+
+  Hyperlinks: (text, url) 
+    ('Richard Feynman', '/wiki/Richard_Feynman')
+    ('Feynman Lectures on Physics', '/wiki/Feynman_Lectures_on_Physics')
+    ('Six Easy Pieces', '/wiki/Six_Easy_Pieces#Six_Easy_Pieces_(1994)')
+    ('quantum electrodynamics', '/wiki/Quantum_electrodynamics')
+    ('Murray Gell-Mann', '/wiki/Murray_Gell-Mann')
+    ('hadrons', '/wiki/Hadrons')
+    ('quarks', '/wiki/Quark')
+    ('Standard Model', '/wiki/Standard_Model')
+    ('Robert Andrews Millikan', '/wiki/Robert_Andrews_Millikan')
+    ('electron', '/wiki/Electron')
+    ('oil-drop experiment', '/wiki/Oil-drop_experiment')
+    ('Richard Chace Tolman', '/wiki/Richard_Chace_Tolman')
+    ('cosmology', '/wiki/Cosmology')
+    ('statistical mechanics', '/wiki/Statistical_mechanics')
+    ('Nobel Prize in Physics', '/wiki/Nobel_Prize_in_Physics')
+    ('H. David Politzer', '/wiki/H._David_Politzer')
+    ('Kip Thorne', '/wiki/Kip_Thorne')
+    ('Barry Simon', '/wiki/Barry_Simon')
+    ('Linus Pauling', '/wiki/Linus_Pauling')
+    ('quantum chemistry', '/wiki/Quantum_chemistry')
+    ('molecular biology', '/wiki/Molecular_biology')
+    ('Charles Richter', '/wiki/Charles_Richter')
+    ('Richter magnitude scale', '/wiki/Richter_magnitude_scale')
+    ('Clair Patterson', '/wiki/Clair_Patterson')
+    ('Theodore von Kármán', '/wiki/Theodore_von_K%C3%A1rm%C3%A1n')
+    ('supersonic', '/wiki/Supersonic')
+    ('hypersonic', '/wiki/Hypersonic')
+    ('vortices', '/wiki/Vortices')
+    ('von Kármán vortex street', '/wiki/Von_K%C3%A1rm%C3%A1n_vortex_street')
+    ('Frank Malina', '/wiki/Frank_Malina')
+    ('WAC Corporal', '/wiki/WAC_Corporal')
+    ('Jack Parsons', '/wiki/Jack_Parsons_(rocket_engineer)')
+    ('Qian Xuesen', '/wiki/Qian_Xuesen')
+    ('Michael Brown', '/wiki/Michael_E._Brown')
+    ('trans-Neptunian objects', '/wiki/Trans-Neptunian_object')
+    ('dwarf planet', '/wiki/Dwarf_planet')
+    ('Eris', '/wiki/Eris_(dwarf_planet)')
+    ('International Astronomical Union', '/wiki/International_Astronomical_Union')
+    ('planet', '/wiki/Planet')
+    ('David Baltimore', '/wiki/David_Baltimore')
+    ('Alice Huang', '/wiki/Alice_S._Huang')
+    ('AAAS', '/wiki/American_Association_for_the_Advancement_of_Science')
+    ('[155]', '#cite_note-155')
+    ('National Academy of Science', '/wiki/National_Academy_of_Science')
+    ('Engineering', '/wiki/National_Academy_of_Engineering')
+    ('American Academy of Arts and Sciences', '/wiki/American_Academy_of_Arts_and_Sciences')
+    ('Rockefeller University', '/wiki/Rockefeller_University')
+    ('[156]', '#cite_note-156')
+    ('[157]', '#cite_note-157')
+    ('[158]', '#cite_note-158')
+
+
+  Top 5 frequent words: 
+    caltech -> 5
+    physics -> 5
+    engineering -> 5
+    science -> 4
+    first -> 4
+
+
+
+
+7.3.1 Presidents:
 
   No Hyperlinks
 
 
   Top 5 frequent words: 
-    anteater -> 1
-    recreation -> 1
-    centercenter -> 1
-    chemistry -> 1
-    spacetime -> 1
+    physicist -> 5
+    experimental -> 3
+    left -> 3
+    serve -> 3
+    brown -> 2
 
 
 
 
-10 Notes:
+8 Caltech_startups:
+
+  Hyperlinks: (text, url) 
+    ('[159]', '#cite_note-159')
+    ('photovoltaic', '/wiki/Photovoltaic')
+    ('radio-frequency identification', '/wiki/Radio-frequency_identification')
+    ('semiconductors', '/wiki/Semiconductor')
+    ('hyperspectral imaging', '/wiki/Hyperspectral_imaging')
+    ('electronic devices', '/wiki/Electronic_devices')
+    ('protein', '/wiki/Protein')
+    ('[160]', '#cite_note-160')
+    ('Impinj', '/wiki/Impinj')
+    ('Photon etc.', '/wiki/Photon_etc.')
+    ('Xencor', '/w/index.php?title=Xencor&action=edit&redlink=1')
+    ('[161]', '#cite_note-161')
+
+
+  Top 5 frequent words: 
+    caltech -> 2
+    technologies -> 2
+    transfer -> 2
+    years -> 1
+    actively -> 1
+
+
+
+
+9 In_media_and_popular_culture:
+
+  Hyperlinks: (text, url) 
+    ('male lead characters and one female lead character', '/wiki/List_of_The_Big_Bang_Theory_and_Young_Sheldon_characters#The_Big_Bang_Theory_main_characters')
+    ('The Big Bang Theory', '/wiki/The_Big_Bang_Theory')
+    ('Numb3rs', '/wiki/Numbers_(TV_series)')
+    ('[162]', '#cite_note-realgenius-162')
+    ('The War of the Worlds', '/wiki/The_War_of_the_Worlds_(1953_film)')
+    ('[163]', '#cite_note-cowan-163')
+    ('Real Genius', '/wiki/Real_Genius')
+    ('[162]', '#cite_note-realgenius-162')
+    ('[164]', '#cite_note-164')
+    ('[165]', '#cite_note-165')
+    ('Quantum Hoops', '/wiki/Quantum_Hoops')
+    ('Athenaeum dining club', '/wiki/Athenaeum_at_Caltech')
+    ('Beverly Hills Cop series', '/wiki/Beverly_Hills_Cop_(film_series)')
+    ('The X-Files', '/wiki/The_X-Files_(film)')
+    ('True Romance', '/wiki/True_Romance')
+    ('The West Wing', '/wiki/The_West_Wing')
+    ('[166]', '#cite_note-166')
+
+
+  Top 5 frequent words: 
+    caltech -> 4
+    television -> 2
+    lead -> 2
+    film -> 2
+    location -> 2
+
+
+
+
+10 See_also:
 
   No Hyperlinks
+
+
+  Top 5 frequent words: 
+    engineering -> 1
+    educationuschina -> 1
+    university -> 1
+    presidents -> 1
+    roundtable -> 1
 
 
 
@@ -788,6 +1103,8 @@ Contents of Wikipedia Page
 
   Top 5 frequent words: 
     official -> 1
+    websiteofficial -> 1
+    athletics -> 1
     website -> 1
 
 
